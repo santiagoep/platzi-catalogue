@@ -22,7 +22,7 @@ const useFilters = ({ onFilter }) => {
   const internalOnFilter = (value, key) =>
     setSelectedFilters({ ...selectedFilters, [key]: value });
 
-  useEffect(() => onFilter(selectedFilters), [selectedFilters, onFilter]);
+  useEffect(() => onFilter(selectedFilters), [selectedFilters]);
 
   const onCleanFilters = () => setSelectedFilters(defaultFilters);
 
