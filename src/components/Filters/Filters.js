@@ -1,9 +1,9 @@
 import PropTypes from 'prop-types';
 
 import useFilters from '@hooks/useFilters';
+import StyledFilters from './Filters.styled';
 import Search from '@components/Search/Search';
 import Select from '@components/Select/Select';
-import { StyledFilters } from './Filters.styled';
 import FancyLine from '@components/FancyLine/FancyLine';
 import Typography from '@components/Typography/Typography';
 

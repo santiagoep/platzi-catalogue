@@ -4,7 +4,7 @@ import StyledTypography from './Typography.styled';
 import { typeEquivalences } from '@constants/index';
 
 const Typography = ({ children, type, as, ...rest }) => (
-  <StyledTypography as={as ? as : typeEquivalences[type]} type={type} {...rest}>
+  <StyledTypography as={as || typeEquivalences[type]} type={type} {...rest}>
     {children}
   </StyledTypography>
 );

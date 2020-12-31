@@ -1,10 +1,8 @@
 import { similarity } from '@utils/strings';
 
-const queryText = (queryText, products, unFilteredProducts) => {
-  if (queryText && queryText.length > 0) {
-    return products?.filter(
-      (product) => similarity(product.name, queryText) > 0.8
-    );
+const queryText = (text, products, unFilteredProducts) => {
+  if (text && text.length > 0) {
+    return products?.filter((product) => similarity(product.name, text) > 0.8);
   }
   return unFilteredProducts;
 };

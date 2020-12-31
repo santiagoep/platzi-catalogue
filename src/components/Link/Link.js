@@ -3,14 +3,7 @@ import PropTypes from 'prop-types';
 
 import { isAValidExternalUrl } from '@utils/strings';
 
-const InternalLink = ({
-  buttonStyles,
-  children,
-  href,
-  target,
-  typographyStyles,
-  ...rest
-}) => {
+const InternalLink = ({ children, href, target, ...rest }) => {
   const isAnExternalUrl = isAValidExternalUrl(href);
   const aProps = isAnExternalUrl
     ? { target, rel: 'noopener noreferrer external nofollow' }

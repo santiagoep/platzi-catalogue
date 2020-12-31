@@ -1,12 +1,14 @@
+import PropTypes from 'prop-types';
+
 import cms from '@cms/index';
 import Layout from '@components/Layout/Layout';
 import Container from '@components/Container/Container';
 import ProductDetail from '@components/ProductDetail/ProductDetail';
 
-const Product = (props) => (
-  <Layout title={props.name}>
+const Product = ({ name, ...props }) => (
+  <Layout title={name}>
     <Container>
-      <ProductDetail {...props} />
+      <ProductDetail name={name} {...props} />
     </Container>
   </Layout>
 );
@@ -26,7 +28,9 @@ export const getStaticPaths = async () => {
   };
 };
 
-Product.propTypes = {};
+Product.propTypes = {
+  name: PropTypes.string.isRequired
+};
 
 Product.defaultProps = {};
 

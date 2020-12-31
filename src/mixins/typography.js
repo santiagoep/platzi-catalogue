@@ -16,7 +16,7 @@ const typographyMixin = ({
 }) => css`
   margin: 0;
   padding: 0;
-  font-size: ${({ theme }) => theme.font.size[type]};
+  font-size: ${theme.font.size[type]};
   color: ${theme.colors.font[color]};
   font-size: ${textStyle};
   text-align: ${textAlign};

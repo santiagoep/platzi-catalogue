@@ -4,7 +4,7 @@ import Link from '@components/Link/Link';
 import Container from '@components/Container/Container';
 import { StyledNavbar, StyledBrand } from './Navbar.styled';
 
-const Navbar = ({}) => (
+const Navbar = () => (
   <StyledNavbar>
     <Container>
       <Link href='/'>

@@ -14,7 +14,7 @@ const useSearch = ({ onSearch }) => {
 
   useEffect(() => {
     debouncedOnSearch(queryText);
-  }, [queryText]);
+  }, [queryText, debouncedOnSearch]);
 
   return [
     { queryText, thereAreQueryText },

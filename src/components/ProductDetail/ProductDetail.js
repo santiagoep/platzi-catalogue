@@ -2,8 +2,8 @@ import PropTypes from 'prop-types';
 
 import Link from '@components/Link/Link';
 import formatCurrency from '@utils/numbers';
+import StyledContainer from './ProductDetail.styled';
 import { Col, Row, Grid } from '@components/Grid/Grid';
-import { StyledContainer } from './ProductDetail.styled';
 import Typography from '@components/Typography/Typography';
 import FakeButton from '@components/FakeButton/FakeButton';
 import ProductDetailImages from '@components/ProductDetailImages/ProductDetailImages';

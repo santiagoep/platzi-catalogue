@@ -7,15 +7,15 @@ import { render } from '@testing-library/react';
 import { ThemeProvider } from 'styled-components';
 
 import { makeMockedStore } from '@store/index';
-import theme from '@assets/styles/themes/light';
 import mockedStore from '@__mocks__/store/index';
+import lightTheme from '@assets/styles/themes/light';
 
 const WrapperComponent = ({ children, config, initialState }) => {
   if (config && config.theme && config.redux) {
     const store = makeMockedStore(initialState || mockedStore);
     return (
       <Provider store={store}>
-        <ThemeProvider theme={theme}>{children}</ThemeProvider>
+        <ThemeProvider theme={lightTheme}>{children}</ThemeProvider>
       </Provider>
     );
   }
@@ -24,7 +24,7 @@ const WrapperComponent = ({ children, config, initialState }) => {
     return <Provider store={store}>{children}</Provider>;
   }
   if (config && config.theme) {
-    return <ThemeProvider theme={theme}>{children}</ThemeProvider>;
+    return <ThemeProvider theme={lightTheme}>{children}</ThemeProvider>;
   }
   return children;
 };

@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const StyledContainer = styled.div`
+export default styled.div`
   margin: ${({ theme }) => theme.utils.spacing(5)};
   padding: ${({ theme }) => theme.utils.spacing(5)};
   box-shadow: ${({ theme }) => theme.boxShadows.main};
