@@ -19,7 +19,7 @@ export default {
       paragraph1: '1.125rem',
       paragraph2: '1rem',
       paragraph3: '0.875rem',
-      caption: '0.75rem',
+      paragraph4: '0.75rem',
       help: '0.625em',
       small: '0.5rem'
     },

@@ -2,16 +2,22 @@ import Link from 'next/link';
 import PropTypes from 'prop-types';
 
 import { isAValidExternalUrl } from '@utils/strings';
-import StyledA from './Link.styled';
 
-const InternalLink = ({ children, href, target, ...rest }) => {
+const InternalLink = ({
+  buttonStyles,
+  children,
+  href,
+  target,
+  typographyStyles,
+  ...rest
+}) => {
   const isAnExternalUrl = isAValidExternalUrl(href);
   const aProps = isAnExternalUrl
     ? { target, rel: 'noopener noreferrer external nofollow' }
     : {};
   return (
     <Link {...rest} href={href} passHref={isAnExternalUrl}>
-      <StyledA {...aProps}>{children}</StyledA>
+      <a {...aProps}>{children}</a>
     </Link>
   );
 };

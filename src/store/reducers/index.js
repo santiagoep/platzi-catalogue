@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux';
 
-import { reducer as thumbsReducer } from './thumbs';
+import { reducer as configReducer } from './config';
 
 const rootReducer = combineReducers({
-  thumbs: thumbsReducer
+  config: configReducer
 });
 
 export default rootReducer;

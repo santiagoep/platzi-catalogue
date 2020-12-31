@@ -1,11 +1,14 @@
-import Head from "next/head";
-import PropTypes from "prop-types";
+import Head from 'next/head';
+import PropTypes from 'prop-types';
+
+import Navbar from '@components/Navbar/Navbar';
 
 const Layout = ({ children, title }) => (
   <>
     <Head>
       <title>{title}</title>
     </Head>
+    <Navbar />
     {children}
   </>
 );
@@ -13,13 +16,13 @@ const Layout = ({ children, title }) => (
 Layout.propTypes = {
   children: PropTypes.oneOfType([
     PropTypes.arrayOf(PropTypes.node),
-    PropTypes.node,
+    PropTypes.node
   ]).isRequired,
-  title: PropTypes.string,
+  title: PropTypes.string
 };
 
 Layout.defaultProps = {
-  title: "Platzi | Catalogue",
+  title: 'Platzi | Catalogue'
 };
 
 export default Layout;

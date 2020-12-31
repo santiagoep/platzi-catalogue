@@ -138,6 +138,7 @@ const BaseStyles = createGlobalStyle`
 
   body {
     margin: 0;
+    background-color: ${({ theme }) => theme.colors.bg.quaternary};
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -157,6 +158,7 @@ const BaseStyles = createGlobalStyle`
 
   a {
     color: inherit;
+    text-decoration: none;
   }
 `;
 

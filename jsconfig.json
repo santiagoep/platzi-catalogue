@@ -10,7 +10,10 @@
       "@constants/*": ["src/constants/*"],
       "@hooks/*": ["src/hooks/*"],
       "@__mocks__/*": ["src/__mocks__/*"],
-      "@mixins/*": ["src/mixins/*"]
+      "@config/*": ["src/config/*"],
+      "@cms/*": ["src/cms/*"],
+      "@mixins/*": ["src/mixins/*"],
+      "@strategies/*": ["src/strategies/*"]
     }
   },
   "exclude": ["node_modules", "build"]

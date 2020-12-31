@@ -1,0 +1,338 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> Should render snapshot 1`] = `
+<WrapperComponent
+  config={
+    Object {
+      "redux": undefined,
+      "theme": true,
+    }
+  }
+>
+  <Component
+    theme={
+      Object {
+        "borderRadius": Object {
+          "button": "100px",
+          "large": "18px",
+          "medium": "8px",
+          "none": "unset",
+          "small": "3px",
+          "total": "50%",
+        },
+        "boxShadows": Object {
+          "main": "1px 2px 4px 0 rgba(21,99,157,.16)",
+          "secondary": "0 0 0 1px #0791e6",
+        },
+        "breakpoints": Object {
+          "desktop": "@media only screen and (min-width: 1280px)",
+          "laptop": "@media only screen and (min-width: 1024px)",
+          "mobile": "@media only screen and (min-width: 320px)",
+          "screen": "@media only screen and (min-width: 1920px)",
+          "smallMobile": "@media only screen and (min-width: 0px)",
+          "tablet": "@media only screen and (min-width: 640px)",
+        },
+        "colors": Object {
+          "bg": Object {
+            "primary": "linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372)",
+            "quaternary": "#F3F8FB",
+            "secondary": "white",
+            "tertiary": "#0791e6",
+          },
+          "border": Object {
+            "primary": "#A8B1C0",
+            "secondary": "white",
+          },
+          "font": Object {
+            "primary": "#131D30",
+            "quaternary": "#A8B1C0",
+            "secondary": "#98ca3f",
+            "tertiary": "white",
+          },
+          "separator": Object {
+            "primary": "#A8B1C0",
+            "secondary": "#0791e6",
+          },
+        },
+        "containerWidth": Object {
+          "desktop": Object {
+            "maxWidth": "85%",
+            "width": "85%",
+          },
+          "fluid": Object {
+            "maxWidth": "100%",
+            "width": "100%",
+          },
+          "limitFluid": Object {
+            "maxWidth": "1920px",
+            "width": "100%",
+          },
+          "mobile": Object {
+            "maxWidth": "92%",
+            "width": "92%",
+          },
+          "screen": Object {
+            "maxWidth": "75%",
+            "width": "75%",
+          },
+          "smallMobile": Object {
+            "maxWidth": "92%",
+            "width": "92%",
+          },
+          "tablet": Object {
+            "maxWidth": "85%",
+            "width": "85%",
+          },
+        },
+        "font": Object {
+          "family": Object {
+            "primary": "'Lato', sans-serif",
+          },
+          "letterSpacing": Object {
+            "medium": "0.5rem",
+            "normal": "0rem",
+          },
+          "lineHeight": Object {
+            "medium": "0.6rem",
+            "normal": "normal",
+          },
+          "size": Object {
+            "h1": "3.75rem",
+            "h2": "3rem",
+            "h3": "2.5rem",
+            "h4": "2.25rem",
+            "h5": "1.625rem",
+            "h6": "1.5rem",
+            "help": "0.625em",
+            "paragraph1": "1.125rem",
+            "paragraph2": "1rem",
+            "paragraph3": "0.875rem",
+            "paragraph4": "0.75rem",
+            "small": "0.5rem",
+            "subtitle1": "1.1375rem",
+            "subtitle2": "1.25rem",
+            "subtitle3": "1.375rem",
+          },
+        },
+        "name": "LIGHT",
+        "transitions": Object {
+          "button": "background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease",
+        },
+        "utils": Object {
+          "spacing": [Function],
+        },
+        "zIndex": Object {
+          "backward": -1,
+          "fixed": 2,
+          "forward": 1,
+          "higher": 3,
+          "initial": 0,
+          "super": 100,
+        },
+      }
+    }
+  >
+    <Layout
+      title="Title Test"
+    >
+      <Head>
+        <_default
+          headManager={Object {}}
+          inAmpMode={false}
+          reduceComponentsToState={[Function]}
+        />
+      </Head>
+      <Navbar>
+        <Navbarstyled__StyledNavbar>
+          <div
+            className="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+          >
+            <Container
+              centered={true}
+              fluid={false}
+              limit={false}
+              relative={true}
+            >
+              <Containerstyled
+                centered={true}
+                fluid={false}
+                limit={false}
+                relative={true}
+              >
+                <div
+                  className="Containerstyled-sc-1cx36k4-0 gJYWsY"
+                >
+                  <InternalLink
+                    href="/"
+                    target="_blank"
+                  >
+                    <Component
+                      href="/"
+                      passHref={false}
+                    >
+                      <div
+                        href="/"
+                        passHref={false}
+                      >
+                        <a>
+                          <Navbarstyled__StyledBrand>
+                            <div
+                              className="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+                            >
+                              <Image
+                                alt="Isotipo Platzi"
+                                height={25}
+                                src="/icons/isotype.png"
+                                width={25}
+                              >
+                                <div
+                                  style={
+                                    Object {
+                                      "boxSizing": "border-box",
+                                      "display": "inline-block",
+                                      "margin": 0,
+                                      "maxWidth": "100%",
+                                      "overflow": "hidden",
+                                      "position": "relative",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    style={
+                                      Object {
+                                        "boxSizing": "border-box",
+                                        "display": "block",
+                                        "maxWidth": "100%",
+                                      }
+                                    }
+                                  >
+                                    <img
+                                      alt=""
+                                      aria-hidden={true}
+                                      role="presentation"
+                                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                                      style={
+                                        Object {
+                                          "display": "block",
+                                          "maxWidth": "100%",
+                                        }
+                                      }
+                                    />
+                                  </div>
+                                  <img
+                                    alt="Isotipo Platzi"
+                                    decoding="async"
+                                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                    style={
+                                      Object {
+                                        "border": "none",
+                                        "bottom": 0,
+                                        "boxSizing": "border-box",
+                                        "display": "block",
+                                        "height": 0,
+                                        "left": 0,
+                                        "margin": "auto",
+                                        "maxHeight": "100%",
+                                        "maxWidth": "100%",
+                                        "minHeight": "100%",
+                                        "minWidth": "100%",
+                                        "objectFit": undefined,
+                                        "objectPosition": undefined,
+                                        "padding": 0,
+                                        "position": "absolute",
+                                        "right": 0,
+                                        "top": 0,
+                                        "visibility": "hidden",
+                                        "width": 0,
+                                      }
+                                    }
+                                  />
+                                </div>
+                              </Image>
+                              <Image
+                                alt="Logo Platzi"
+                                height={25}
+                                src="/icons/logo.png"
+                                width={52.5}
+                              >
+                                <div
+                                  style={
+                                    Object {
+                                      "boxSizing": "border-box",
+                                      "display": "inline-block",
+                                      "margin": 0,
+                                      "maxWidth": "100%",
+                                      "overflow": "hidden",
+                                      "position": "relative",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    style={
+                                      Object {
+                                        "boxSizing": "border-box",
+                                        "display": "block",
+                                        "maxWidth": "100%",
+                                      }
+                                    }
+                                  >
+                                    <img
+                                      alt=""
+                                      aria-hidden={true}
+                                      role="presentation"
+                                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                                      style={
+                                        Object {
+                                          "display": "block",
+                                          "maxWidth": "100%",
+                                        }
+                                      }
+                                    />
+                                  </div>
+                                  <img
+                                    alt="Logo Platzi"
+                                    decoding="async"
+                                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                                    style={
+                                      Object {
+                                        "border": "none",
+                                        "bottom": 0,
+                                        "boxSizing": "border-box",
+                                        "display": "block",
+                                        "height": 0,
+                                        "left": 0,
+                                        "margin": "auto",
+                                        "maxHeight": "100%",
+                                        "maxWidth": "100%",
+                                        "minHeight": "100%",
+                                        "minWidth": "100%",
+                                        "objectFit": undefined,
+                                        "objectPosition": undefined,
+                                        "padding": 0,
+                                        "position": "absolute",
+                                        "right": 0,
+                                        "top": 0,
+                                        "visibility": "hidden",
+                                        "width": 0,
+                                      }
+                                    }
+                                  />
+                                </div>
+                              </Image>
+                            </div>
+                          </Navbarstyled__StyledBrand>
+                        </a>
+                      </div>
+                    </Component>
+                  </InternalLink>
+                </div>
+              </Containerstyled>
+            </Container>
+          </div>
+        </Navbarstyled__StyledNavbar>
+      </Navbar>
+      Layout Test
+    </Layout>
+  </Component>
+</WrapperComponent>
+`;
