@@ -31,5 +31,5 @@ bvc-digital-market-frontend.iml
 .DS_Store
 
 # Cypress
-cypress/videos
-cypress/screenshots
+src/__e2e-test__/cypress/videos/*
+src/__e2e-test__/cypress/screenshots/*
