@@ -2,23 +2,19 @@ context('Home', () => {
   it('Go To Home', () => {
     cy.visit('/');
 
-    cy.get('.product').should(($product) => {
-      expect($product).to.have.length(10);
-    });
+    cy.get('.product').should('have.length', 10);
 
     // Should search
     cy.get('#query-text-filters').type('Chaqueta Negra');
-    cy.get('.product__price').should(($price) => {
-      expect($price).to.have.length(3);
-    });
+    cy.get('.product__price').should('have.length', 3);
 
     // Should filter price from lowest to highest
     cy.get('#sort-filters').select('price_from_lowest_to_highest');
     cy.get('.product__price')
       .first()
-      .then(($productPrice) => {
-        expect($productPrice.text()).to.include('154.852');
-      });
+      .then(($productPrice) =>
+        expect($productPrice.text()).to.include('154.852')
+      );
     cy.get('.product__price')
       .eq(1)
       .then(($productPrice) => {
@@ -40,9 +36,7 @@ context('Home', () => {
 
     // Should clear search
     cy.get('#query-text-filters').clear();
-    cy.get('.product').should(($product) => {
-      expect($product).to.have.length(10);
-    });
+    cy.get('.product').should('have.length', 10);
     cy.get('.product__price')
       .first()
       .then(($productPrice) => {

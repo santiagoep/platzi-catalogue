@@ -14,10 +14,7 @@ const RootComponent = ({ Component, pageProps }) => {
   const store = useStore();
   const persistor = persistStore(store);
 
-  Router.events.on('routeChangeStart', (url) => {
-    console.log(`Loading: ${url}`);
-    NProgress.start();
-  });
+  Router.events.on('routeChangeStart', () => NProgress.start());
   Router.events.on('routeChangeComplete', () => NProgress.done());
   Router.events.on('routeChangeError', () => NProgress.done());
 

@@ -32,13 +32,13 @@ InternalLink.propTypes = {
   href: PropTypes.string.isRequired,
   target: PropTypes.string,
   className: PropTypes.string,
-  dataTestId: PropTypes.string
+  'data-testid': PropTypes.string
 };
 
 InternalLink.defaultProps = {
   target: '_blank',
   className: '',
-  dataTestId: ''
+  'data-testid': ''
 };
 
 export default InternalLink;

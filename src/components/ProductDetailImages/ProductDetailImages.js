@@ -36,12 +36,12 @@ const ProductDetailImages = ({ images, 'data-testid': dataTestId }) => {
 
 ProductDetailImages.propTypes = {
   images: PropTypes.arrayOf(PropTypes.object),
-  dataTestId: PropTypes.string
+  'data-testid': PropTypes.string
 };
 
 ProductDetailImages.defaultProps = {
   images: [],
-  dataTestId: ''
+  'data-testid': ''
 };
 
 export default ProductDetailImages;

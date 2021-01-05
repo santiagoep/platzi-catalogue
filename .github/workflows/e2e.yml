@@ -1,0 +1,23 @@
+name: End-to-end tests
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+jobs:
+  cypress-run:
+    runs-on: ubuntu-16.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      # Install NPM dependencies, cache them correctly
+      # and run all Cypress tests
+      - name: Cypress run
+        uses: cypress-io/github-action@v2
+        with:
+          headless: true
+          env:
+            NODE_ENV: development
+            CMS_ENDPOINT: ${{ secrets.CMS_ENDPOINT }}
+            CMS_APIKEY: ${{ secrets.CMS_APIKEY }}
+          project: ./src/__e2e-test__

@@ -4,9 +4,10 @@
     "airbnb",
     "prettier",
     "prettier/react",
-    "plugin:jest/recommended"
+    "plugin:jest/recommended",
+    "plugin:cypress/recommended"
   ],
-  "plugins": ["prettier", "jest", "react-hooks"],
+  "plugins": ["prettier", "jest", "react-hooks", "cypress"],
   "rules": {
     "prettier/prettier": [
       "error",
@@ -59,5 +60,14 @@
   "env": {
     "browser": true,
     "jest": true
-  }
+  },
+  "overrides": [
+    {
+      "files": ["src/__e2e-test__/cypress/integration/*.spec.js"],
+      "rules": {
+        "jest/valid-expect-in-promise": 0,
+        "jest/valid-expect": 0
+      }
+    }
+  ]
 }
