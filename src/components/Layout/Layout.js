@@ -1,4 +1,3 @@
-import Head from 'next/head';
 import PropTypes from 'prop-types';
 
 import Navbar from '@components/Navbar/Navbar';
@@ -17,7 +16,7 @@ Layout.propTypes = {
     PropTypes.arrayOf(PropTypes.node),
     PropTypes.node
   ]).isRequired,
-  seo: PropTypes.object
+  seo: PropTypes.shape({})
 };
 
 Layout.defaultProps = {
