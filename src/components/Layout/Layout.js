@@ -2,12 +2,11 @@ import Head from 'next/head';
 import PropTypes from 'prop-types';
 
 import Navbar from '@components/Navbar/Navbar';
+import Seo from '@components/Seo/Seo';
 
-const Layout = ({ children, title }) => (
+const Layout = ({ children, seo }) => (
   <>
-    <Head>
-      <title>{title}</title>
-    </Head>
+    <Seo {...seo} />
     <Navbar />
     {children}
   </>
@@ -18,11 +17,11 @@ Layout.propTypes = {
     PropTypes.arrayOf(PropTypes.node),
     PropTypes.node
   ]).isRequired,
-  title: PropTypes.string
+  seo: PropTypes.object
 };
 
 Layout.defaultProps = {
-  title: 'Platzi | Catalogue'
+  seo: {}
 };
 
 export default Layout;

@@ -7,6 +7,7 @@ import { ThemeProvider } from 'styled-components';
 import { PersistGate } from 'redux-persist/integration/react';
 
 import wrapper from '@store/index';
+import Seo from '@components/Seo/Seo';
 import theme from '@assets/styles/themes/light';
 import BaseStyles from '@components/BaseStyles/BaseStyles';
 
@@ -22,6 +23,7 @@ const RootComponent = ({ Component, pageProps }) => {
     <PersistGate persistor={persistor} loading={null}>
       {() => (
         <ThemeProvider theme={theme}>
+          <Seo />
           <BaseStyles />
           <Component {...pageProps} />
         </ThemeProvider>

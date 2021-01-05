@@ -133,15 +133,30 @@ exports[`<Layout /> Should render snapshot 1`] = `
     }
   >
     <Layout
+      seo={Object {}}
       title="Title Test"
     >
-      <Head>
-        <_default
-          headManager={Object {}}
-          inAmpMode={false}
-          reduceComponentsToState={[Function]}
-        />
-      </Head>
+      <Seo
+        meta={
+          Object {
+            "author": "Santiago Espitia Patiño",
+            "focusKeywords": "Platzi, Test, Catalogo, Products",
+            "metaDescription": "Está página es una prueba construida para Platzi, que consiste en desarrollar un catalogo.",
+            "metaTitle": "Platzi | Catalogo",
+            "noIndex": false,
+          }
+        }
+        snippets={Array []}
+        title="Platzi | Catalogo"
+      >
+        <Head>
+          <_default
+            headManager={Object {}}
+            inAmpMode={false}
+            reduceComponentsToState={[Function]}
+          />
+        </Head>
+      </Seo>
       <Navbar>
         <Navbarstyled__StyledNavbar
           data-testid="navbar"
