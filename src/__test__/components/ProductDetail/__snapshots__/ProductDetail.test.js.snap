@@ -174,7 +174,6 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                       >
                         <ProductDetailImages
                           data-testid="product-detail__images"
-                          dataTestId=""
                           images={
                             Array [
                               Object {
@@ -576,19 +575,16 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                             <InternalLink
                               className=""
                               data-testid="product-detail__go-back"
-                              dataTestId=""
                               href="/"
                               onClick={[Function]}
                               target="_blank"
                             >
                               <Component
-                                dataTestId=""
                                 href="/"
                                 onClick={[Function]}
                                 passHref={false}
                               >
                                 <div
-                                  dataTestId=""
                                   href="/"
                                   onClick={[Function]}
                                   passHref={false}

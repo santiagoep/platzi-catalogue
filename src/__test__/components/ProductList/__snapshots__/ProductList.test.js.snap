@@ -222,19 +222,16 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                           <InternalLink
                             className="product"
                             data-testid="product"
-                            dataTestId=""
                             href="/products/slug"
                             onClick={[Function]}
                             target="_blank"
                           >
                             <Component
-                              dataTestId=""
                               href="/products/slug"
                               onClick={[Function]}
                               passHref={false}
                             >
                               <div
-                                dataTestId=""
                                 href="/products/slug"
                                 onClick={[Function]}
                                 passHref={false}
@@ -571,19 +568,16 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                           <InternalLink
                             className="product"
                             data-testid="product"
-                            dataTestId=""
                             href="/products/slug"
                             onClick={[Function]}
                             target="_blank"
                           >
                             <Component
-                              dataTestId=""
                               href="/products/slug"
                               onClick={[Function]}
                               passHref={false}
                             >
                               <div
-                                dataTestId=""
                                 href="/products/slug"
                                 onClick={[Function]}
                                 passHref={false}
@@ -920,19 +914,16 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                           <InternalLink
                             className="product"
                             data-testid="product"
-                            dataTestId=""
                             href="/products/slug"
                             onClick={[Function]}
                             target="_blank"
                           >
                             <Component
-                              dataTestId=""
                               href="/products/slug"
                               onClick={[Function]}
                               passHref={false}
                             >
                               <div
-                                dataTestId=""
                                 href="/products/slug"
                                 onClick={[Function]}
                                 passHref={false}

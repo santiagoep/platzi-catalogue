@@ -13,11 +13,11 @@ Object {
           class="Containerstyled-sc-1cx36k4-0 gJYWsY"
         >
           <div
-            datatestid=""
             href="/"
           >
             <a
               class=""
+              data-testid=""
             >
               <div
                 class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -185,7 +185,6 @@ Object {
                   description
                 </p>
                 <div
-                  datatestid=""
                   href="/"
                 >
                   <a
@@ -226,11 +225,11 @@ Object {
         class="Containerstyled-sc-1cx36k4-0 gJYWsY"
       >
         <div
-          datatestid=""
           href="/"
         >
           <a
             class=""
+            data-testid=""
           >
             <div
               class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -398,7 +397,6 @@ Object {
                 description
               </p>
               <div
-                datatestid=""
                 href="/"
               >
                 <a
@@ -496,11 +494,11 @@ Object {
           class="Containerstyled-sc-1cx36k4-0 gJYWsY"
         >
           <div
-            datatestid=""
             href="/"
           >
             <a
               class=""
+              data-testid=""
             >
               <div
                 class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -668,7 +666,6 @@ Object {
                   description
                 </p>
                 <div
-                  datatestid=""
                   href="/"
                 >
                   <a
@@ -709,11 +706,11 @@ Object {
         class="Containerstyled-sc-1cx36k4-0 gJYWsY"
       >
         <div
-          datatestid=""
           href="/"
         >
           <a
             class=""
+            data-testid=""
           >
             <div
               class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -881,7 +878,6 @@ Object {
                 description
               </p>
               <div
-                datatestid=""
                 href="/"
               >
                 <a
@@ -979,11 +975,11 @@ Object {
           class="Containerstyled-sc-1cx36k4-0 gJYWsY"
         >
           <div
-            datatestid=""
             href="/"
           >
             <a
               class=""
+              data-testid=""
             >
               <div
                 class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -1151,7 +1147,6 @@ Object {
                   description
                 </p>
                 <div
-                  datatestid=""
                   href="/"
                 >
                   <a
@@ -1192,11 +1187,11 @@ Object {
         class="Containerstyled-sc-1cx36k4-0 gJYWsY"
       >
         <div
-          datatestid=""
           href="/"
         >
           <a
             class=""
+            data-testid=""
           >
             <div
               class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -1364,7 +1359,6 @@ Object {
                 description
               </p>
               <div
-                datatestid=""
                 href="/"
               >
                 <a

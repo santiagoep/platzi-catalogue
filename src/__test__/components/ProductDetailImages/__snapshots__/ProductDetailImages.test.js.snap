@@ -133,7 +133,7 @@ exports[`<ProductDetailImages /> Should render snapshot 1`] = `
     }
   >
     <ProductDetailImages
-      dataTestId=""
+      data-testid=""
       images={
         Array [
           Object {
@@ -150,6 +150,7 @@ exports[`<ProductDetailImages /> Should render snapshot 1`] = `
       <Slider
         autoplay={true}
         autoplaySpeed={3000}
+        data-testid=""
         dots={true}
         fade={true}
         infinite={true}
@@ -167,6 +168,7 @@ exports[`<ProductDetailImages /> Should render snapshot 1`] = `
               appendDots={[Function]}
               autoplay={true}
               autoplaySpeed={3000}
+              data-testid=""
               dots={true}
               fade={true}
               infinite={true}
@@ -182,6 +184,7 @@ exports[`<ProductDetailImages /> Should render snapshot 1`] = `
                 appendDots={[Function]}
                 autoplay={true}
                 autoplaySpeed={3000}
+                data-testid=""
                 dots={true}
                 fade={true}
                 infinite={true}

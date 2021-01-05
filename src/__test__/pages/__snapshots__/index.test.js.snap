@@ -13,11 +13,11 @@ Object {
           class="Containerstyled-sc-1cx36k4-0 gJYWsY"
         >
           <div
-            datatestid=""
             href="/"
           >
             <a
               class=""
+              data-testid=""
             >
               <div
                 class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -214,7 +214,6 @@ Object {
                   class="Colstyled-k6pt3-0 hUcocq"
                 >
                   <div
-                    datatestid=""
                     href="/products/slug"
                   >
                     <a
@@ -302,7 +301,6 @@ Object {
                   class="Colstyled-k6pt3-0 hUcocq"
                 >
                   <div
-                    datatestid=""
                     href="/products/slug"
                   >
                     <a
@@ -390,7 +388,6 @@ Object {
                   class="Colstyled-k6pt3-0 hUcocq"
                 >
                   <div
-                    datatestid=""
                     href="/products/slug"
                   >
                     <a
@@ -490,11 +487,11 @@ Object {
         class="Containerstyled-sc-1cx36k4-0 gJYWsY"
       >
         <div
-          datatestid=""
           href="/"
         >
           <a
             class=""
+            data-testid=""
           >
             <div
               class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -691,7 +688,6 @@ Object {
                 class="Colstyled-k6pt3-0 hUcocq"
               >
                 <div
-                  datatestid=""
                   href="/products/slug"
                 >
                   <a
@@ -779,7 +775,6 @@ Object {
                 class="Colstyled-k6pt3-0 hUcocq"
               >
                 <div
-                  datatestid=""
                   href="/products/slug"
                 >
                   <a
@@ -867,7 +862,6 @@ Object {
                 class="Colstyled-k6pt3-0 hUcocq"
               >
                 <div
-                  datatestid=""
                   href="/products/slug"
                 >
                   <a
@@ -1024,11 +1018,11 @@ Object {
           class="Containerstyled-sc-1cx36k4-0 gJYWsY"
         >
           <div
-            datatestid=""
             href="/"
           >
             <a
               class=""
+              data-testid=""
             >
               <div
                 class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -1225,7 +1219,6 @@ Object {
                   class="Colstyled-k6pt3-0 hUcocq"
                 >
                   <div
-                    datatestid=""
                     href="/products/slug"
                   >
                     <a
@@ -1313,7 +1306,6 @@ Object {
                   class="Colstyled-k6pt3-0 hUcocq"
                 >
                   <div
-                    datatestid=""
                     href="/products/slug"
                   >
                     <a
@@ -1401,7 +1393,6 @@ Object {
                   class="Colstyled-k6pt3-0 hUcocq"
                 >
                   <div
-                    datatestid=""
                     href="/products/slug"
                   >
                     <a
@@ -1501,11 +1492,11 @@ Object {
         class="Containerstyled-sc-1cx36k4-0 gJYWsY"
       >
         <div
-          datatestid=""
           href="/"
         >
           <a
             class=""
+            data-testid=""
           >
             <div
               class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
@@ -1702,7 +1693,6 @@ Object {
                 class="Colstyled-k6pt3-0 hUcocq"
               >
                 <div
-                  datatestid=""
                   href="/products/slug"
                 >
                   <a
@@ -1790,7 +1780,6 @@ Object {
                 class="Colstyled-k6pt3-0 hUcocq"
               >
                 <div
-                  datatestid=""
                   href="/products/slug"
                 >
                   <a
@@ -1878,7 +1867,6 @@ Object {
                 class="Colstyled-k6pt3-0 hUcocq"
               >
                 <div
-                  datatestid=""
                   href="/products/slug"
                 >
                   <a

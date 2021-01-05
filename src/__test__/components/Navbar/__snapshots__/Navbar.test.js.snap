@@ -157,22 +157,21 @@ exports[`<Navbar /> Should render snapshot 1`] = `
               >
                 <InternalLink
                   className=""
-                  dataTestId=""
+                  data-testid=""
                   href="/"
                   target="_blank"
                 >
                   <Component
-                    dataTestId=""
                     href="/"
                     passHref={false}
                   >
                     <div
-                      dataTestId=""
                       href="/"
                       passHref={false}
                     >
                       <a
                         className=""
+                        data-testid=""
                       >
                         <Navbarstyled__StyledBrand>
                           <div
