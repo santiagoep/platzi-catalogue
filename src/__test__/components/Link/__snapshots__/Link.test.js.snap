@@ -2,10 +2,13 @@
 
 exports[`<Link /> should render snapshot 1`] = `
 <div
+  dataTestId=""
   href="/"
   passHref={false}
 >
-  <a>
+  <a
+    className=""
+  >
     Home
   </a>
 </div>

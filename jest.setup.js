@@ -1,6 +1,9 @@
 /* eslint-disable react/prop-types */
+import next from 'next';
 import Enzyme from 'enzyme';
 import Adapter from '@wojtekmaj/enzyme-adapter-react-17';
+
+next({});
 
 jest.mock('lodash.debounce', () => (fn) => fn);
 

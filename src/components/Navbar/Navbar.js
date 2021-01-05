@@ -5,7 +5,7 @@ import Container from '@components/Container/Container';
 import { StyledNavbar, StyledBrand } from './Navbar.styled';
 
 const Navbar = () => (
-  <StyledNavbar>
+  <StyledNavbar data-testid='navbar'>
     <Container>
       <Link href='/'>
         <StyledBrand>

@@ -24,9 +24,7 @@ const useFilters = ({ onFilter }) => {
 
   useEffect(() => onFilter(selectedFilters), [selectedFilters]);
 
-  const onCleanFilters = () => setSelectedFilters(defaultFilters);
-
-  return [{ options }, { internalOnFilter, onCleanFilters }];
+  return [{ options }, { internalOnFilter }];
 };
 
 export default useFilters;

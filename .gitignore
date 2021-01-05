@@ -3,7 +3,7 @@
 build/
 .vercel
 
-# dotenv environment variables file (build for Zeit Now)
+# dotenv environment variables file
 .env
 
 # Dependency directories
@@ -30,3 +30,6 @@ bvc-digital-market-frontend.iml
 **/.DS_Store
 .DS_Store
 
+# Cypress
+cypress/videos
+cypress/screenshots

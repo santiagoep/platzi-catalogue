@@ -8,12 +8,12 @@ import FancyLine from '@components/FancyLine/FancyLine';
 import Typography from '@components/Typography/Typography';
 
 const Filters = ({ onFilter }) => {
-  const [{ options }, { internalOnFilter, onCleanFilters }] = useFilters({
+  const [{ options }, { internalOnFilter }] = useFilters({
     onFilter
   });
 
   return (
-    <StyledFilters>
+    <StyledFilters data-testid='filters'>
       <Typography type='h6' fontWeight='bold' color='quaternary'>
         Filtros
       </Typography>
@@ -29,18 +29,6 @@ const Filters = ({ onFilter }) => {
         options={options}
         onSelect={(value) => internalOnFilter(value, 'sort')}
       />
-      <Typography
-        className='filters__clean'
-        type='help'
-        color='quaternary'
-        fontWeight={400}
-        as='p'
-        textDecoration='underline'
-        textTransform='uppercase'
-        onClick={onCleanFilters}
-      >
-        Limpiar filtros
-      </Typography>
     </StyledFilters>
   );
 };

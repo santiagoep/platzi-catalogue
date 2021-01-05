@@ -17,7 +17,7 @@ module.exports = {
     '^@config/(.*)$': '<rootDir>/src/config/$1',
     '^@cms/(.*)$': '<rootDir>/src/cms/$1',
     '^@mixins/(.*)$': '<rootDir>/src/mixins/$1',
-    '^@strategies/(.*)$': '<rootDir>/src/mixins/$1'
+    '^@strategies/(.*)$': '<rootDir>/src/strategies/$1'
   },
   snapshotSerializers: ['enzyme-to-json/serializer'],
   transform: {

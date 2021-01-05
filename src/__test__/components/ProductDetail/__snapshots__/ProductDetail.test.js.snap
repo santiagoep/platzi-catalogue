@@ -173,6 +173,8 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                         className="Colstyled-k6pt3-0 dePlOp"
                       >
                         <ProductDetailImages
+                          data-testid="product-detail__images"
+                          dataTestId=""
                           images={
                             Array [
                               Object {
@@ -189,6 +191,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                           <Slider
                             autoplay={true}
                             autoplaySpeed={3000}
+                            data-testid="product-detail__images"
                             dots={true}
                             fade={true}
                             infinite={true}
@@ -206,6 +209,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                   appendDots={[Function]}
                                   autoplay={true}
                                   autoplaySpeed={3000}
+                                  data-testid="product-detail__images"
                                   dots={true}
                                   fade={true}
                                   infinite={true}
@@ -221,6 +225,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                     appendDots={[Function]}
                                     autoplay={true}
                                     autoplaySpeed={3000}
+                                    data-testid="product-detail__images"
                                     dots={true}
                                     fade={true}
                                     infinite={true}
@@ -394,14 +399,15 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                       <div
                         className="Colstyled-k6pt3-0 dePlOp"
                       >
-                        <ProductDetailstyled__StyledContainer>
+                        <ProductDetailstyled>
                           <div
-                            className="ProductDetailstyled__StyledContainer-sc-9inifs-0 hfAzFx"
+                            className="ProductDetailstyled-sc-9inifs-0 jGytkp"
                           >
                             <Typography
                               as="p"
                               className="product-detail__category-name"
                               color="quaternary"
+                              data-testid="product-detail__category-name"
                               fontFamily="primary"
                               fontStyle="normal"
                               fontWeight={400}
@@ -415,6 +421,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 as="p"
                                 className="product-detail__category-name"
                                 color="quaternary"
+                                data-testid="product-detail__category-name"
                                 fontFamily="primary"
                                 fontStyle="normal"
                                 fontWeight={400}
@@ -427,6 +434,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 <p
                                   className="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
                                   color="quaternary"
+                                  data-testid="product-detail__category-name"
                                   fontFamily="primary"
                                   fontStyle="normal"
                                   fontWeight={400}
@@ -440,6 +448,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                               as="h2"
                               className="product-detail__name"
                               color="secondary"
+                              data-testid="product-detail__name"
                               fontFamily="primary"
                               fontStyle="normal"
                               fontWeight="bold"
@@ -453,6 +462,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 as="h2"
                                 className="product-detail__name"
                                 color="secondary"
+                                data-testid="product-detail__name"
                                 fontFamily="primary"
                                 fontStyle="normal"
                                 fontWeight="bold"
@@ -465,6 +475,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 <h2
                                   className="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
                                   color="secondary"
+                                  data-testid="product-detail__name"
                                   fontFamily="primary"
                                   fontStyle="normal"
                                   fontWeight="bold"
@@ -480,6 +491,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                               as="p"
                               className="product-detail__price"
                               color="primary"
+                              data-testid="product-detail__price"
                               fontFamily="primary"
                               fontStyle="normal"
                               fontWeight="bold"
@@ -493,6 +505,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 as="p"
                                 className="product-detail__price"
                                 color="primary"
+                                data-testid="product-detail__price"
                                 fontFamily="primary"
                                 fontStyle="normal"
                                 fontWeight="bold"
@@ -505,6 +518,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 <p
                                   className="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
                                   color="primary"
+                                  data-testid="product-detail__price"
                                   fontFamily="primary"
                                   fontStyle="normal"
                                   fontWeight="bold"
@@ -520,6 +534,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                               as="p"
                               className="product-detail__description"
                               color="primary"
+                              data-testid="product-detail__description"
                               fontFamily="primary"
                               fontStyle="normal"
                               fontWeight="normal"
@@ -533,6 +548,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 as="p"
                                 className="product-detail__description"
                                 color="primary"
+                                data-testid="product-detail__description"
                                 fontFamily="primary"
                                 fontStyle="normal"
                                 fontWeight="normal"
@@ -545,6 +561,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                                 <p
                                   className="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
                                   color="primary"
+                                  data-testid="product-detail__description"
                                   fontFamily="primary"
                                   fontStyle="normal"
                                   fontWeight="normal"
@@ -557,21 +574,29 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                               </Typographystyled>
                             </Typography>
                             <InternalLink
+                              className=""
+                              data-testid="product-detail__go-back"
+                              dataTestId=""
                               href="/"
                               onClick={[Function]}
                               target="_blank"
                             >
                               <Component
+                                dataTestId=""
                                 href="/"
                                 onClick={[Function]}
                                 passHref={false}
                               >
                                 <div
+                                  dataTestId=""
                                   href="/"
                                   onClick={[Function]}
                                   passHref={false}
                                 >
-                                  <a>
+                                  <a
+                                    className=""
+                                    data-testid="product-detail__go-back"
+                                  >
                                     <FakeButton>
                                       <Fakebuttonstyled>
                                         <div
@@ -624,7 +649,7 @@ exports[`<ProductDetail /> Should render snapshot 1`] = `
                               </Component>
                             </InternalLink>
                           </div>
-                        </ProductDetailstyled__StyledContainer>
+                        </ProductDetailstyled>
                       </div>
                     </Colstyled>
                   </Col>

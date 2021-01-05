@@ -3,14 +3,23 @@ import PropTypes from 'prop-types';
 
 import { isAValidExternalUrl } from '@utils/strings';
 
-const InternalLink = ({ children, href, target, ...rest }) => {
+const InternalLink = ({
+  children,
+  href,
+  target,
+  className,
+  'data-testid': dataTestId,
+  ...rest
+}) => {
   const isAnExternalUrl = isAValidExternalUrl(href);
   const aProps = isAnExternalUrl
     ? { target, rel: 'noopener noreferrer external nofollow' }
     : {};
   return (
     <Link {...rest} href={href} passHref={isAnExternalUrl}>
-      <a {...aProps}>{children}</a>
+      <a className={className} data-testid={dataTestId} {...aProps}>
+        {children}
+      </a>
     </Link>
   );
 };
@@ -21,11 +30,15 @@ InternalLink.propTypes = {
     PropTypes.node
   ]).isRequired,
   href: PropTypes.string.isRequired,
-  target: PropTypes.string
+  target: PropTypes.string,
+  className: PropTypes.string,
+  dataTestId: PropTypes.string
 };
 
 InternalLink.defaultProps = {
-  target: '_blank'
+  target: '_blank',
+  className: '',
+  dataTestId: ''
 };
 
 export default InternalLink;

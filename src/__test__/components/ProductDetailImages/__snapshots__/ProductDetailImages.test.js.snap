@@ -133,6 +133,7 @@ exports[`<ProductDetailImages /> Should render snapshot 1`] = `
     }
   >
     <ProductDetailImages
+      dataTestId=""
       images={
         Array [
           Object {

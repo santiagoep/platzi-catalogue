@@ -1,0 +1,1450 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductDetail should go to home 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+        data-testid="navbar"
+      >
+        <div
+          class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+        >
+          <div
+            datatestid=""
+            href="/"
+          >
+            <a
+              class=""
+            >
+              <div
+                class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Isotipo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Logo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          class="Containerstyled-qmu1bg-0 fwZIDA"
+        >
+          <div
+            class="Rowstyled-sc-76dq7o-0 kjMbCD"
+          >
+            <div
+              class="Colstyled-k6pt3-0 dePlOp"
+            >
+              <div
+                class="Sliderstyled__StyledContainer-sc-1d9pqbc-0 dGMmUB"
+              >
+                <div
+                  autoplayspeed="3000"
+                  data-testid="product-detail__images"
+                  nextarrow="[object Object]"
+                  prevarrow="[object Object]"
+                  slidestoscroll="1"
+                  slidestoshow="1"
+                  speed="1000"
+                >
+                  <div
+                    class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                  >
+                    <div
+                      style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                    >
+                      <img
+                        alt="Isotype"
+                        decoding="async"
+                        sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                        src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                        srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                        style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                  >
+                    <div
+                      style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                    >
+                      <img
+                        alt="Isotype"
+                        decoding="async"
+                        sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                        src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                        srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                        style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="Colstyled-k6pt3-0 dePlOp"
+            >
+              <div
+                class="ProductDetailstyled-sc-9inifs-0 jGytkp"
+              >
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
+                  color="quaternary"
+                  data-testid="product-detail__category-name"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="400"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph4"
+                />
+                <h2
+                  class="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
+                  color="secondary"
+                  data-testid="product-detail__name"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="bold"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="subtitle1"
+                >
+                  name
+                </h2>
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
+                  color="primary"
+                  data-testid="product-detail__price"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="bold"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph3"
+                >
+                  $ 150
+                </p>
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
+                  color="primary"
+                  data-testid="product-detail__description"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="normal"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph1"
+                >
+                  description
+                </p>
+                <div
+                  datatestid=""
+                  href="/"
+                >
+                  <a
+                    class=""
+                    data-testid="product-detail__go-back"
+                  >
+                    <div
+                      class="Fakebuttonstyled-gl3kvr-0 dIYKni"
+                    >
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                        color="tertiary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="paragraph1"
+                      >
+                        Volver
+                      </p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+      data-testid="navbar"
+    >
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          datatestid=""
+          href="/"
+        >
+          <a
+            class=""
+          >
+            <div
+              class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+            >
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Isotipo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Logo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+    >
+      <div
+        class="Containerstyled-qmu1bg-0 fwZIDA"
+      >
+        <div
+          class="Rowstyled-sc-76dq7o-0 kjMbCD"
+        >
+          <div
+            class="Colstyled-k6pt3-0 dePlOp"
+          >
+            <div
+              class="Sliderstyled__StyledContainer-sc-1d9pqbc-0 dGMmUB"
+            >
+              <div
+                autoplayspeed="3000"
+                data-testid="product-detail__images"
+                nextarrow="[object Object]"
+                prevarrow="[object Object]"
+                slidestoscroll="1"
+                slidestoshow="1"
+                speed="1000"
+              >
+                <div
+                  class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                >
+                  <div
+                    style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                  >
+                    <img
+                      alt="Isotype"
+                      decoding="async"
+                      sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                      src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                      srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                      style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                >
+                  <div
+                    style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                  >
+                    <img
+                      alt="Isotype"
+                      decoding="async"
+                      sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                      src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                      srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                      style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="Colstyled-k6pt3-0 dePlOp"
+          >
+            <div
+              class="ProductDetailstyled-sc-9inifs-0 jGytkp"
+            >
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
+                color="quaternary"
+                data-testid="product-detail__category-name"
+                font-family="primary"
+                font-style="normal"
+                font-weight="400"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph4"
+              />
+              <h2
+                class="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
+                color="secondary"
+                data-testid="product-detail__name"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="subtitle1"
+              >
+                name
+              </h2>
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
+                color="primary"
+                data-testid="product-detail__price"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph3"
+              >
+                $ 150
+              </p>
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
+                color="primary"
+                data-testid="product-detail__description"
+                font-family="primary"
+                font-style="normal"
+                font-weight="normal"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph1"
+              >
+                description
+              </p>
+              <div
+                datatestid=""
+                href="/"
+              >
+                <a
+                  class=""
+                  data-testid="product-detail__go-back"
+                >
+                  <div
+                    class="Fakebuttonstyled-gl3kvr-0 dIYKni"
+                  >
+                    <p
+                      class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                      color="tertiary"
+                      font-family="primary"
+                      font-style="normal"
+                      font-weight="bold"
+                      letter-spacing="normal"
+                      text-decoration="none"
+                      type="paragraph1"
+                    >
+                      Volver
+                    </p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ProductDetail should render snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+        data-testid="navbar"
+      >
+        <div
+          class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+        >
+          <div
+            datatestid=""
+            href="/"
+          >
+            <a
+              class=""
+            >
+              <div
+                class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Isotipo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Logo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          class="Containerstyled-qmu1bg-0 fwZIDA"
+        >
+          <div
+            class="Rowstyled-sc-76dq7o-0 kjMbCD"
+          >
+            <div
+              class="Colstyled-k6pt3-0 dePlOp"
+            >
+              <div
+                class="Sliderstyled__StyledContainer-sc-1d9pqbc-0 dGMmUB"
+              >
+                <div
+                  autoplayspeed="3000"
+                  data-testid="product-detail__images"
+                  nextarrow="[object Object]"
+                  prevarrow="[object Object]"
+                  slidestoscroll="1"
+                  slidestoshow="1"
+                  speed="1000"
+                >
+                  <div
+                    class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                  >
+                    <div
+                      style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                    >
+                      <img
+                        alt="Isotype"
+                        decoding="async"
+                        sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                        src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                        srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                        style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                  >
+                    <div
+                      style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                    >
+                      <img
+                        alt="Isotype"
+                        decoding="async"
+                        sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                        src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                        srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                        style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="Colstyled-k6pt3-0 dePlOp"
+            >
+              <div
+                class="ProductDetailstyled-sc-9inifs-0 jGytkp"
+              >
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
+                  color="quaternary"
+                  data-testid="product-detail__category-name"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="400"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph4"
+                />
+                <h2
+                  class="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
+                  color="secondary"
+                  data-testid="product-detail__name"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="bold"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="subtitle1"
+                >
+                  name
+                </h2>
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
+                  color="primary"
+                  data-testid="product-detail__price"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="bold"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph3"
+                >
+                  $ 150
+                </p>
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
+                  color="primary"
+                  data-testid="product-detail__description"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="normal"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph1"
+                >
+                  description
+                </p>
+                <div
+                  datatestid=""
+                  href="/"
+                >
+                  <a
+                    class=""
+                    data-testid="product-detail__go-back"
+                  >
+                    <div
+                      class="Fakebuttonstyled-gl3kvr-0 dIYKni"
+                    >
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                        color="tertiary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="paragraph1"
+                      >
+                        Volver
+                      </p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+      data-testid="navbar"
+    >
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          datatestid=""
+          href="/"
+        >
+          <a
+            class=""
+          >
+            <div
+              class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+            >
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Isotipo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Logo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+    >
+      <div
+        class="Containerstyled-qmu1bg-0 fwZIDA"
+      >
+        <div
+          class="Rowstyled-sc-76dq7o-0 kjMbCD"
+        >
+          <div
+            class="Colstyled-k6pt3-0 dePlOp"
+          >
+            <div
+              class="Sliderstyled__StyledContainer-sc-1d9pqbc-0 dGMmUB"
+            >
+              <div
+                autoplayspeed="3000"
+                data-testid="product-detail__images"
+                nextarrow="[object Object]"
+                prevarrow="[object Object]"
+                slidestoscroll="1"
+                slidestoshow="1"
+                speed="1000"
+              >
+                <div
+                  class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                >
+                  <div
+                    style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                  >
+                    <img
+                      alt="Isotype"
+                      decoding="async"
+                      sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                      src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                      srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                      style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                >
+                  <div
+                    style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                  >
+                    <img
+                      alt="Isotype"
+                      decoding="async"
+                      sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                      src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                      srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                      style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="Colstyled-k6pt3-0 dePlOp"
+          >
+            <div
+              class="ProductDetailstyled-sc-9inifs-0 jGytkp"
+            >
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
+                color="quaternary"
+                data-testid="product-detail__category-name"
+                font-family="primary"
+                font-style="normal"
+                font-weight="400"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph4"
+              />
+              <h2
+                class="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
+                color="secondary"
+                data-testid="product-detail__name"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="subtitle1"
+              >
+                name
+              </h2>
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
+                color="primary"
+                data-testid="product-detail__price"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph3"
+              >
+                $ 150
+              </p>
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
+                color="primary"
+                data-testid="product-detail__description"
+                font-family="primary"
+                font-style="normal"
+                font-weight="normal"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph1"
+              >
+                description
+              </p>
+              <div
+                datatestid=""
+                href="/"
+              >
+                <a
+                  class=""
+                  data-testid="product-detail__go-back"
+                >
+                  <div
+                    class="Fakebuttonstyled-gl3kvr-0 dIYKni"
+                  >
+                    <p
+                      class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                      color="tertiary"
+                      font-family="primary"
+                      font-style="normal"
+                      font-weight="bold"
+                      letter-spacing="normal"
+                      text-decoration="none"
+                      type="paragraph1"
+                    >
+                      Volver
+                    </p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`ProductDetail should render snapshot in mobile 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+        data-testid="navbar"
+      >
+        <div
+          class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+        >
+          <div
+            datatestid=""
+            href="/"
+          >
+            <a
+              class=""
+            >
+              <div
+                class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Isotipo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Logo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          class="Containerstyled-qmu1bg-0 fwZIDA"
+        >
+          <div
+            class="Rowstyled-sc-76dq7o-0 kjMbCD"
+          >
+            <div
+              class="Colstyled-k6pt3-0 dePlOp"
+            >
+              <div
+                class="Sliderstyled__StyledContainer-sc-1d9pqbc-0 dGMmUB"
+              >
+                <div
+                  autoplayspeed="3000"
+                  data-testid="product-detail__images"
+                  nextarrow="[object Object]"
+                  prevarrow="[object Object]"
+                  slidestoscroll="1"
+                  slidestoshow="1"
+                  speed="1000"
+                >
+                  <div
+                    class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                  >
+                    <div
+                      style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                    >
+                      <img
+                        alt="Isotype"
+                        decoding="async"
+                        sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                        src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                        srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                        style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                  >
+                    <div
+                      style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                    >
+                      <img
+                        alt="Isotype"
+                        decoding="async"
+                        sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                        src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                        srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                        style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="Colstyled-k6pt3-0 dePlOp"
+            >
+              <div
+                class="ProductDetailstyled-sc-9inifs-0 jGytkp"
+              >
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
+                  color="quaternary"
+                  data-testid="product-detail__category-name"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="400"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph4"
+                />
+                <h2
+                  class="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
+                  color="secondary"
+                  data-testid="product-detail__name"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="bold"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="subtitle1"
+                >
+                  name
+                </h2>
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
+                  color="primary"
+                  data-testid="product-detail__price"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="bold"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph3"
+                >
+                  $ 150
+                </p>
+                <p
+                  class="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
+                  color="primary"
+                  data-testid="product-detail__description"
+                  font-family="primary"
+                  font-style="normal"
+                  font-weight="normal"
+                  letter-spacing="normal"
+                  text-decoration="none"
+                  type="paragraph1"
+                >
+                  description
+                </p>
+                <div
+                  datatestid=""
+                  href="/"
+                >
+                  <a
+                    class=""
+                    data-testid="product-detail__go-back"
+                  >
+                    <div
+                      class="Fakebuttonstyled-gl3kvr-0 dIYKni"
+                    >
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                        color="tertiary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="paragraph1"
+                      >
+                        Volver
+                      </p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+      data-testid="navbar"
+    >
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          datatestid=""
+          href="/"
+        >
+          <a
+            class=""
+          >
+            <div
+              class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+            >
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Isotipo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Logo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+    >
+      <div
+        class="Containerstyled-qmu1bg-0 fwZIDA"
+      >
+        <div
+          class="Rowstyled-sc-76dq7o-0 kjMbCD"
+        >
+          <div
+            class="Colstyled-k6pt3-0 dePlOp"
+          >
+            <div
+              class="Sliderstyled__StyledContainer-sc-1d9pqbc-0 dGMmUB"
+            >
+              <div
+                autoplayspeed="3000"
+                data-testid="product-detail__images"
+                nextarrow="[object Object]"
+                prevarrow="[object Object]"
+                slidestoscroll="1"
+                slidestoshow="1"
+                speed="1000"
+              >
+                <div
+                  class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                >
+                  <div
+                    style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                  >
+                    <img
+                      alt="Isotype"
+                      decoding="async"
+                      sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                      src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                      srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                      style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="ProductDetailImagestyled-qsmc9q-0 jUkCNe"
+                >
+                  <div
+                    style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                  >
+                    <img
+                      alt="Isotype"
+                      decoding="async"
+                      sizes="(max-width: 640px) 640px, (max-width: 750px) 750px, (max-width: 828px) 828px, (max-width: 1080px) 1080px, (max-width: 1200px) 1200px, (max-width: 1920px) 1920px, (max-width: 2048px) 2048px, 3840px"
+                      src="/_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100"
+                      srcset="/_next/image?url=%2Ficons%2Fisotype.png&w=640&q=100 640w, /_next/image?url=%2Ficons%2Fisotype.png&w=750&q=100 750w, /_next/image?url=%2Ficons%2Fisotype.png&w=828&q=100 828w, /_next/image?url=%2Ficons%2Fisotype.png&w=1080&q=100 1080w, /_next/image?url=%2Ficons%2Fisotype.png&w=1200&q=100 1200w, /_next/image?url=%2Ficons%2Fisotype.png&w=1920&q=100 1920w, /_next/image?url=%2Ficons%2Fisotype.png&w=2048&q=100 2048w, /_next/image?url=%2Ficons%2Fisotype.png&w=3840&q=100 3840w"
+                      style="visibility: visible; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="Colstyled-k6pt3-0 dePlOp"
+          >
+            <div
+              class="ProductDetailstyled-sc-9inifs-0 jGytkp"
+            >
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 hxSQkE product-detail__category-name"
+                color="quaternary"
+                data-testid="product-detail__category-name"
+                font-family="primary"
+                font-style="normal"
+                font-weight="400"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph4"
+              />
+              <h2
+                class="Typographystyled-sc-1pbtdtz-0 Falna product-detail__name"
+                color="secondary"
+                data-testid="product-detail__name"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="subtitle1"
+              >
+                name
+              </h2>
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 ecdERZ product-detail__price"
+                color="primary"
+                data-testid="product-detail__price"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph3"
+              >
+                $ 150
+              </p>
+              <p
+                class="Typographystyled-sc-1pbtdtz-0 bzcDUm product-detail__description"
+                color="primary"
+                data-testid="product-detail__description"
+                font-family="primary"
+                font-style="normal"
+                font-weight="normal"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph1"
+              >
+                description
+              </p>
+              <div
+                datatestid=""
+                href="/"
+              >
+                <a
+                  class=""
+                  data-testid="product-detail__go-back"
+                >
+                  <div
+                    class="Fakebuttonstyled-gl3kvr-0 dIYKni"
+                  >
+                    <p
+                      class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                      color="tertiary"
+                      font-family="primary"
+                      font-style="normal"
+                      font-weight="bold"
+                      letter-spacing="normal"
+                      text-decoration="none"
+                      type="paragraph1"
+                    >
+                      Volver
+                    </p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

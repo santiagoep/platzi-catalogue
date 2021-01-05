@@ -17,7 +17,7 @@ const sliderConfig = {
   pauseOnHover: true
 };
 
-const ProductDetailImages = ({ images }) => {
+const ProductDetailImages = ({ images, 'data-testid': dataTestId }) => {
   const memoizedSlides = useMemo(
     () =>
       images.map((image, index) => (
@@ -27,15 +27,21 @@ const ProductDetailImages = ({ images }) => {
       )),
     [images]
   );
-  return <Slider {...sliderConfig}>{memoizedSlides}</Slider>;
+  return (
+    <Slider {...sliderConfig} data-testid={dataTestId}>
+      {memoizedSlides}
+    </Slider>
+  );
 };
 
 ProductDetailImages.propTypes = {
-  images: PropTypes.arrayOf(PropTypes.object)
+  images: PropTypes.arrayOf(PropTypes.object),
+  dataTestId: PropTypes.string
 };
 
 ProductDetailImages.defaultProps = {
-  images: []
+  images: [],
+  dataTestId: ''
 };
 
 export default ProductDetailImages;

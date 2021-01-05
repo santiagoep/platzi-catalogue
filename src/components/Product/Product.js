@@ -9,11 +9,16 @@ import ProductImage from '@components/ProductImage/ProductImage';
 import { StyledProductImageContainer, StyledProduct } from './Product.styled';
 
 const Product = ({ slug, name, price, image, hoverImage, onClick }) => (
-  <Link href={`/products/${slug}`} onClick={onClick}>
+  <Link
+    href={`/products/${slug}`}
+    onClick={onClick}
+    className='product'
+    data-testid='product'
+  >
     <StyledProduct>
       <StyledProductImageContainer>
-        <ProductImage {...hoverImage} className='bottom' />
-        <ProductImage {...image} className='top' />
+        <ProductImage {...hoverImage} className='product__hover-image bottom' />
+        <ProductImage {...image} className='product__image top' />
       </StyledProductImageContainer>
       <Typography
         type='subtitle1'
@@ -21,6 +26,7 @@ const Product = ({ slug, name, price, image, hoverImage, onClick }) => (
         fontWeight='bold'
         textAlign='center'
         as='h2'
+        className='product__name'
       >
         {name}
       </Typography>
@@ -29,12 +35,13 @@ const Product = ({ slug, name, price, image, hoverImage, onClick }) => (
         color='primary'
         fontWeight='bold'
         textAlign='center'
-        as='h2'
+        as='p'
+        className='product__price'
       >
         {formatCurrency(price)}
       </Typography>
       <FancyLine />
-      <FakeButton centered>
+      <FakeButton className='product__cta' centered>
         <Typography color='tertiary' fontWeight='bold'>
           Ver más
         </Typography>

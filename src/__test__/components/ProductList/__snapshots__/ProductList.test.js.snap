@@ -144,7 +144,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
               "alt": "Isotype",
               "src": "/icons/isotype.png",
             },
-            "name": "name",
+            "name": "Chaqueta",
             "price": 124,
             "slug": "slug",
           },
@@ -157,8 +157,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
               "alt": "Isotype",
               "src": "/icons/isotype.png",
             },
-            "name": "name",
-            "price": 124,
+            "name": "Camisa",
+            "price": 126,
             "slug": "slug",
           },
           Object {
@@ -170,8 +170,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
               "alt": "Isotype",
               "src": "/icons/isotype.png",
             },
-            "name": "name",
-            "price": 124,
+            "name": "Pantalon",
+            "price": 125,
             "slug": "slug",
           },
         ]
@@ -214,27 +214,35 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                               "src": "/icons/isotype.png",
                             }
                           }
-                          name="name"
+                          name="Chaqueta"
                           onClick={[Function]}
                           price={124}
                           slug="slug"
                         >
                           <InternalLink
+                            className="product"
+                            data-testid="product"
+                            dataTestId=""
                             href="/products/slug"
                             onClick={[Function]}
                             target="_blank"
                           >
                             <Component
+                              dataTestId=""
                               href="/products/slug"
                               onClick={[Function]}
                               passHref={false}
                             >
                               <div
+                                dataTestId=""
                                 href="/products/slug"
                                 onClick={[Function]}
                                 passHref={false}
                               >
-                                <a>
+                                <a
+                                  className="product"
+                                  data-testid="product"
+                                >
                                   <Productstyled__StyledProduct>
                                     <div
                                       className="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
@@ -245,12 +253,12 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                         >
                                           <ProductImage
                                             alt="Isotype"
-                                            className="bottom"
+                                            className="product__hover-image bottom"
                                             src="/icons/isotype.png"
                                           >
                                             <Image
                                               alt="Isotype"
-                                              className="bottom"
+                                              className="product__hover-image bottom"
                                               layout="fill"
                                               loading="lazy"
                                               objectFit="cover"
@@ -274,7 +282,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                               >
                                                 <img
                                                   alt="Isotype"
-                                                  className="bottom"
+                                                  className="product__hover-image bottom"
                                                   decoding="async"
                                                   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                                                   style={
@@ -306,12 +314,12 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           </ProductImage>
                                           <ProductImage
                                             alt="Isotype"
-                                            className="top"
+                                            className="product__image top"
                                             src="/icons/isotype.png"
                                           >
                                             <Image
                                               alt="Isotype"
-                                              className="top"
+                                              className="product__image top"
                                               layout="fill"
                                               loading="lazy"
                                               objectFit="cover"
@@ -335,7 +343,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                               >
                                                 <img
                                                   alt="Isotype"
-                                                  className="top"
+                                                  className="product__image top"
                                                   decoding="async"
                                                   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                                                   style={
@@ -369,7 +377,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       </Productstyled__StyledProductImageContainer>
                                       <Typography
                                         as="h2"
-                                        className="typography"
+                                        className="product__name"
                                         color="secondary"
                                         fontFamily="primary"
                                         fontStyle="normal"
@@ -383,7 +391,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       >
                                         <Typographystyled
                                           as="h2"
-                                          className="typography"
+                                          className="product__name"
                                           color="secondary"
                                           fontFamily="primary"
                                           fontStyle="normal"
@@ -396,7 +404,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           type="subtitle1"
                                         >
                                           <h2
-                                            className="Typographystyled-sc-1pbtdtz-0 TNqEh typography"
+                                            className="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
                                             color="secondary"
                                             fontFamily="primary"
                                             fontStyle="normal"
@@ -405,13 +413,13 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                             textDecoration="none"
                                             type="subtitle1"
                                           >
-                                            name
+                                            Chaqueta
                                           </h2>
                                         </Typographystyled>
                                       </Typography>
                                       <Typography
-                                        as="h2"
-                                        className="typography"
+                                        as="p"
+                                        className="product__price"
                                         color="primary"
                                         fontFamily="primary"
                                         fontStyle="normal"
@@ -424,8 +432,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                         type="subtitle1"
                                       >
                                         <Typographystyled
-                                          as="h2"
-                                          className="typography"
+                                          as="p"
+                                          className="product__price"
                                           color="primary"
                                           fontFamily="primary"
                                           fontStyle="normal"
@@ -437,8 +445,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           textTransform="none"
                                           type="subtitle1"
                                         >
-                                          <h2
-                                            className="Typographystyled-sc-1pbtdtz-0 hXKoMh typography"
+                                          <p
+                                            className="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
                                             color="primary"
                                             fontFamily="primary"
                                             fontStyle="normal"
@@ -448,7 +456,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                             type="subtitle1"
                                           >
                                             $ 124
-                                          </h2>
+                                          </p>
                                         </Typographystyled>
                                       </Typography>
                                       <FancyLine
@@ -467,12 +475,14 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       </FancyLine>
                                       <FakeButton
                                         centered={true}
+                                        className="product__cta"
                                       >
                                         <Fakebuttonstyled
                                           centered={true}
+                                          className="product__cta"
                                         >
                                           <div
-                                            className="Fakebuttonstyled-gl3kvr-0 pZBOM"
+                                            className="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
                                           >
                                             <Typography
                                               className="typography"
@@ -553,27 +563,35 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                               "src": "/icons/isotype.png",
                             }
                           }
-                          name="name"
+                          name="Camisa"
                           onClick={[Function]}
-                          price={124}
+                          price={126}
                           slug="slug"
                         >
                           <InternalLink
+                            className="product"
+                            data-testid="product"
+                            dataTestId=""
                             href="/products/slug"
                             onClick={[Function]}
                             target="_blank"
                           >
                             <Component
+                              dataTestId=""
                               href="/products/slug"
                               onClick={[Function]}
                               passHref={false}
                             >
                               <div
+                                dataTestId=""
                                 href="/products/slug"
                                 onClick={[Function]}
                                 passHref={false}
                               >
-                                <a>
+                                <a
+                                  className="product"
+                                  data-testid="product"
+                                >
                                   <Productstyled__StyledProduct>
                                     <div
                                       className="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
@@ -584,12 +602,12 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                         >
                                           <ProductImage
                                             alt="Isotype"
-                                            className="bottom"
+                                            className="product__hover-image bottom"
                                             src="/icons/isotype.png"
                                           >
                                             <Image
                                               alt="Isotype"
-                                              className="bottom"
+                                              className="product__hover-image bottom"
                                               layout="fill"
                                               loading="lazy"
                                               objectFit="cover"
@@ -613,7 +631,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                               >
                                                 <img
                                                   alt="Isotype"
-                                                  className="bottom"
+                                                  className="product__hover-image bottom"
                                                   decoding="async"
                                                   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                                                   style={
@@ -645,12 +663,12 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           </ProductImage>
                                           <ProductImage
                                             alt="Isotype"
-                                            className="top"
+                                            className="product__image top"
                                             src="/icons/isotype.png"
                                           >
                                             <Image
                                               alt="Isotype"
-                                              className="top"
+                                              className="product__image top"
                                               layout="fill"
                                               loading="lazy"
                                               objectFit="cover"
@@ -674,7 +692,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                               >
                                                 <img
                                                   alt="Isotype"
-                                                  className="top"
+                                                  className="product__image top"
                                                   decoding="async"
                                                   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                                                   style={
@@ -708,7 +726,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       </Productstyled__StyledProductImageContainer>
                                       <Typography
                                         as="h2"
-                                        className="typography"
+                                        className="product__name"
                                         color="secondary"
                                         fontFamily="primary"
                                         fontStyle="normal"
@@ -722,7 +740,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       >
                                         <Typographystyled
                                           as="h2"
-                                          className="typography"
+                                          className="product__name"
                                           color="secondary"
                                           fontFamily="primary"
                                           fontStyle="normal"
@@ -735,7 +753,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           type="subtitle1"
                                         >
                                           <h2
-                                            className="Typographystyled-sc-1pbtdtz-0 TNqEh typography"
+                                            className="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
                                             color="secondary"
                                             fontFamily="primary"
                                             fontStyle="normal"
@@ -744,13 +762,13 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                             textDecoration="none"
                                             type="subtitle1"
                                           >
-                                            name
+                                            Camisa
                                           </h2>
                                         </Typographystyled>
                                       </Typography>
                                       <Typography
-                                        as="h2"
-                                        className="typography"
+                                        as="p"
+                                        className="product__price"
                                         color="primary"
                                         fontFamily="primary"
                                         fontStyle="normal"
@@ -763,8 +781,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                         type="subtitle1"
                                       >
                                         <Typographystyled
-                                          as="h2"
-                                          className="typography"
+                                          as="p"
+                                          className="product__price"
                                           color="primary"
                                           fontFamily="primary"
                                           fontStyle="normal"
@@ -776,8 +794,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           textTransform="none"
                                           type="subtitle1"
                                         >
-                                          <h2
-                                            className="Typographystyled-sc-1pbtdtz-0 hXKoMh typography"
+                                          <p
+                                            className="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
                                             color="primary"
                                             fontFamily="primary"
                                             fontStyle="normal"
@@ -786,8 +804,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                             textDecoration="none"
                                             type="subtitle1"
                                           >
-                                            $ 124
-                                          </h2>
+                                            $ 126
+                                          </p>
                                         </Typographystyled>
                                       </Typography>
                                       <FancyLine
@@ -806,12 +824,14 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       </FancyLine>
                                       <FakeButton
                                         centered={true}
+                                        className="product__cta"
                                       >
                                         <Fakebuttonstyled
                                           centered={true}
+                                          className="product__cta"
                                         >
                                           <div
-                                            className="Fakebuttonstyled-gl3kvr-0 pZBOM"
+                                            className="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
                                           >
                                             <Typography
                                               className="typography"
@@ -892,27 +912,35 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                               "src": "/icons/isotype.png",
                             }
                           }
-                          name="name"
+                          name="Pantalon"
                           onClick={[Function]}
-                          price={124}
+                          price={125}
                           slug="slug"
                         >
                           <InternalLink
+                            className="product"
+                            data-testid="product"
+                            dataTestId=""
                             href="/products/slug"
                             onClick={[Function]}
                             target="_blank"
                           >
                             <Component
+                              dataTestId=""
                               href="/products/slug"
                               onClick={[Function]}
                               passHref={false}
                             >
                               <div
+                                dataTestId=""
                                 href="/products/slug"
                                 onClick={[Function]}
                                 passHref={false}
                               >
-                                <a>
+                                <a
+                                  className="product"
+                                  data-testid="product"
+                                >
                                   <Productstyled__StyledProduct>
                                     <div
                                       className="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
@@ -923,12 +951,12 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                         >
                                           <ProductImage
                                             alt="Isotype"
-                                            className="bottom"
+                                            className="product__hover-image bottom"
                                             src="/icons/isotype.png"
                                           >
                                             <Image
                                               alt="Isotype"
-                                              className="bottom"
+                                              className="product__hover-image bottom"
                                               layout="fill"
                                               loading="lazy"
                                               objectFit="cover"
@@ -952,7 +980,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                               >
                                                 <img
                                                   alt="Isotype"
-                                                  className="bottom"
+                                                  className="product__hover-image bottom"
                                                   decoding="async"
                                                   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                                                   style={
@@ -984,12 +1012,12 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           </ProductImage>
                                           <ProductImage
                                             alt="Isotype"
-                                            className="top"
+                                            className="product__image top"
                                             src="/icons/isotype.png"
                                           >
                                             <Image
                                               alt="Isotype"
-                                              className="top"
+                                              className="product__image top"
                                               layout="fill"
                                               loading="lazy"
                                               objectFit="cover"
@@ -1013,7 +1041,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                               >
                                                 <img
                                                   alt="Isotype"
-                                                  className="top"
+                                                  className="product__image top"
                                                   decoding="async"
                                                   src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                                                   style={
@@ -1047,7 +1075,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       </Productstyled__StyledProductImageContainer>
                                       <Typography
                                         as="h2"
-                                        className="typography"
+                                        className="product__name"
                                         color="secondary"
                                         fontFamily="primary"
                                         fontStyle="normal"
@@ -1061,7 +1089,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       >
                                         <Typographystyled
                                           as="h2"
-                                          className="typography"
+                                          className="product__name"
                                           color="secondary"
                                           fontFamily="primary"
                                           fontStyle="normal"
@@ -1074,7 +1102,7 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           type="subtitle1"
                                         >
                                           <h2
-                                            className="Typographystyled-sc-1pbtdtz-0 TNqEh typography"
+                                            className="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
                                             color="secondary"
                                             fontFamily="primary"
                                             fontStyle="normal"
@@ -1083,13 +1111,13 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                             textDecoration="none"
                                             type="subtitle1"
                                           >
-                                            name
+                                            Pantalon
                                           </h2>
                                         </Typographystyled>
                                       </Typography>
                                       <Typography
-                                        as="h2"
-                                        className="typography"
+                                        as="p"
+                                        className="product__price"
                                         color="primary"
                                         fontFamily="primary"
                                         fontStyle="normal"
@@ -1102,8 +1130,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                         type="subtitle1"
                                       >
                                         <Typographystyled
-                                          as="h2"
-                                          className="typography"
+                                          as="p"
+                                          className="product__price"
                                           color="primary"
                                           fontFamily="primary"
                                           fontStyle="normal"
@@ -1115,8 +1143,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                           textTransform="none"
                                           type="subtitle1"
                                         >
-                                          <h2
-                                            className="Typographystyled-sc-1pbtdtz-0 hXKoMh typography"
+                                          <p
+                                            className="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
                                             color="primary"
                                             fontFamily="primary"
                                             fontStyle="normal"
@@ -1125,8 +1153,8 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                             textDecoration="none"
                                             type="subtitle1"
                                           >
-                                            $ 124
-                                          </h2>
+                                            $ 125
+                                          </p>
                                         </Typographystyled>
                                       </Typography>
                                       <FancyLine
@@ -1145,12 +1173,14 @@ exports[`<ProductList /> Should render snapshot 1`] = `
                                       </FancyLine>
                                       <FakeButton
                                         centered={true}
+                                        className="product__cta"
                                       >
                                         <Fakebuttonstyled
                                           centered={true}
+                                          className="product__cta"
                                         >
                                           <div
-                                            className="Fakebuttonstyled-gl3kvr-0 pZBOM"
+                                            className="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
                                           >
                                             <Typography
                                               className="typography"

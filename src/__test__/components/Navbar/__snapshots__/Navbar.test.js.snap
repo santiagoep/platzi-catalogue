@@ -133,9 +133,12 @@ exports[`<Navbar /> Should render snapshot 1`] = `
     }
   >
     <Navbar>
-      <Navbarstyled__StyledNavbar>
+      <Navbarstyled__StyledNavbar
+        data-testid="navbar"
+      >
         <div
           className="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+          data-testid="navbar"
         >
           <Container
             centered={true}
@@ -153,18 +156,24 @@ exports[`<Navbar /> Should render snapshot 1`] = `
                 className="Containerstyled-sc-1cx36k4-0 gJYWsY"
               >
                 <InternalLink
+                  className=""
+                  dataTestId=""
                   href="/"
                   target="_blank"
                 >
                   <Component
+                    dataTestId=""
                     href="/"
                     passHref={false}
                   >
                     <div
+                      dataTestId=""
                       href="/"
                       passHref={false}
                     >
-                      <a>
+                      <a
+                        className=""
+                      >
                         <Navbarstyled__StyledBrand>
                           <div
                             className="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"

@@ -135,9 +135,12 @@ exports[`<Filters /> Should render snapshot 1`] = `
     <Filters
       onFilter={[Function]}
     >
-      <Filtersstyled__StyledFilters>
+      <Filtersstyled
+        data-testid="filters"
+      >
         <div
-          className="Filtersstyled__StyledFilters-sc-8y7woq-0 djXtLt"
+          className="Filtersstyled-sc-8y7woq-0 iTDjCP"
+          data-testid="filters"
         >
           <Typography
             className="typography"
@@ -483,51 +486,8 @@ exports[`<Filters /> Should render snapshot 1`] = `
               </div>
             </Selectstyled__StyledContainer>
           </Select>
-          <Typography
-            as="p"
-            className="filters__clean"
-            color="quaternary"
-            fontFamily="primary"
-            fontStyle="normal"
-            fontWeight={400}
-            letterSpacing="normal"
-            lineHeight="normal"
-            onClick={[Function]}
-            textDecoration="underline"
-            textTransform="uppercase"
-            type="help"
-          >
-            <Typographystyled
-              as="p"
-              className="filters__clean"
-              color="quaternary"
-              fontFamily="primary"
-              fontStyle="normal"
-              fontWeight={400}
-              letterSpacing="normal"
-              lineHeight="normal"
-              onClick={[Function]}
-              textDecoration="underline"
-              textTransform="uppercase"
-              type="help"
-            >
-              <p
-                className="Typographystyled-sc-1pbtdtz-0 bgCjpB filters__clean"
-                color="quaternary"
-                fontFamily="primary"
-                fontStyle="normal"
-                fontWeight={400}
-                letterSpacing="normal"
-                onClick={[Function]}
-                textDecoration="underline"
-                type="help"
-              >
-                Limpiar filtros
-              </p>
-            </Typographystyled>
-          </Typography>
         </div>
-      </Filtersstyled__StyledFilters>
+      </Filtersstyled>
     </Filters>
   </Component>
 </WrapperComponent>

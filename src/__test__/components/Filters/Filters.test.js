@@ -35,18 +35,4 @@ describe('<Filters />', () => {
       sort: 'price_from_lowest_to_highest'
     });
   });
-  it('Should clean filters', () => {
-    const { mount } = render({ theme: true });
-    const spy = jest.fn();
-    const component = mount(<Filters onFilter={spy} />);
-    component
-      .find('#query-text-filters')
-      .last()
-      .simulate('change', { target: { value: 'Test' } });
-    component.find('.filters__clean').last().simulate('click');
-    expect(spy).toHaveBeenCalledWith({
-      queryText: '',
-      sort: ''
-    });
-  });
 });

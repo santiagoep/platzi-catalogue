@@ -19,12 +19,16 @@ const ProductDetail = ({
   <Grid>
     <Row>
       <Col smallMobile='100%' tablet='50%'>
-        <ProductDetailImages images={images} />
+        <ProductDetailImages
+          images={images}
+          data-testid='product-detail__images'
+        />
       </Col>
       <Col smallMobile='100%' tablet='50%'>
         <StyledContainer>
           <Typography
             className='product-detail__category-name'
+            data-testid='product-detail__category-name'
             type='paragraph4'
             color='quaternary'
             fontWeight={400}
@@ -34,6 +38,7 @@ const ProductDetail = ({
           </Typography>
           <Typography
             className='product-detail__name'
+            data-testid='product-detail__name'
             type='subtitle1'
             color='secondary'
             fontWeight='bold'
@@ -43,6 +48,7 @@ const ProductDetail = ({
           </Typography>
           <Typography
             className='product-detail__price'
+            data-testid='product-detail__price'
             type='paragraph3'
             color='primary'
             fontWeight='bold'
@@ -52,13 +58,14 @@ const ProductDetail = ({
           </Typography>
           <Typography
             className='product-detail__description'
+            data-testid='product-detail__description'
             type='paragraph1'
             color='primary'
             as='p'
           >
             {description}
           </Typography>
-          <Link href='/' onClick={onBack}>
+          <Link href='/' onClick={onBack} data-testid='product-detail__go-back'>
             <FakeButton>
               <Typography color='tertiary' fontWeight='bold'>
                 Volver

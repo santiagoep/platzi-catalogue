@@ -1,0 +1,2023 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+        data-testid="navbar"
+      >
+        <div
+          class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+        >
+          <div
+            datatestid=""
+            href="/"
+          >
+            <a
+              class=""
+            >
+              <div
+                class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Isotipo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Logo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="Containerstyled-qmu1bg-0 fwZIDA"
+      >
+        <div
+          class="Rowstyled-sc-76dq7o-0 kjMbCD"
+        >
+          <div
+            class="Colstyled-k6pt3-0 bRyICX"
+          >
+            <div
+              class="Filtersstyled-sc-8y7woq-0 iTDjCP"
+              data-testid="filters"
+            >
+              <h6
+                class="Typographystyled-sc-1pbtdtz-0 esWlpf typography"
+                color="quaternary"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="h6"
+              >
+                Filtros
+              </h6>
+              <div
+                class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                height="1px"
+              />
+              <div
+                class="Searchstyled__StyledContainer-nj7k97-0 fmXmHm"
+              >
+                <input
+                  class="Searchstyled__StyledSearch-nj7k97-1 ZPjyu"
+                  id="query-text-filters"
+                  placeholder="Buscar..."
+                  value=""
+                />
+                <div
+                  class="Searchstyled__StyledIcon-nj7k97-2 jBicbR"
+                >
+                  <div
+                    style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                  >
+                    <div
+                      style="box-sizing: border-box; display: block; max-width: 100%;"
+                    >
+                      <img
+                        alt=""
+                        aria-hidden="true"
+                        role="presentation"
+                        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                        style="max-width: 100%; display: block;"
+                      />
+                    </div>
+                    <img
+                      alt="Search Icon"
+                      decoding="async"
+                      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                      style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                    />
+                  </div>
+                </div>
+              </div>
+              <label
+                class="Typographystyled-sc-1pbtdtz-0 bEYlVL typography"
+                color="primary"
+                font-family="primary"
+                font-style="normal"
+                font-weight="normal"
+                for="sort-filters"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph4"
+              >
+                Ordenar
+              </label>
+              <div
+                class="Selectstyled__StyledContainer-sc-1d2yf14-0 jcUCjC"
+              >
+                <select
+                  class="Selectstyled__StyledSelect-sc-1d2yf14-1 dCxTJM"
+                  id="sort-filters"
+                >
+                  <option
+                    class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                    selected=""
+                    value=""
+                  >
+                    Ordenar por...
+                  </option>
+                  <option
+                    class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                    value="price_from_highest_to_lowest"
+                  >
+                    Precio de mayor a menor
+                  </option>
+                  <option
+                    class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                    value="price_from_lowest_to_highest"
+                  >
+                    Precio de menor a mayor
+                  </option>
+                </select>
+                <div
+                  class="Selectstyled__StyledIcon-sc-1d2yf14-3 TCQxc"
+                >
+                  <div
+                    style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                  >
+                    <div
+                      style="box-sizing: border-box; display: block; max-width: 100%;"
+                    >
+                      <img
+                        alt=""
+                        aria-hidden="true"
+                        role="presentation"
+                        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                        style="max-width: 100%; display: block;"
+                      />
+                    </div>
+                    <img
+                      alt="Arrow Icon"
+                      decoding="async"
+                      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                      style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="Colstyled-k6pt3-0 dzLMJp"
+          >
+            <div
+              class="Containerstyled-qmu1bg-0 fwZIDA"
+            >
+              <div
+                class="Rowstyled-sc-76dq7o-0 kjMbCD"
+              >
+                <div
+                  class="Colstyled-k6pt3-0 hUcocq"
+                >
+                  <div
+                    datatestid=""
+                    href="/products/slug"
+                  >
+                    <a
+                      class="product"
+                      data-testid="product"
+                    >
+                      <div
+                        class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                      >
+                        <div
+                          class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                        >
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__hover-image bottom"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__image top"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                        </div>
+                        <h2
+                          class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                          color="secondary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          Chaqueta
+                        </h2>
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                          color="primary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          $ 124
+                        </p>
+                        <div
+                          class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                          height="1px"
+                        />
+                        <div
+                          class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                        >
+                          <p
+                            class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                            color="tertiary"
+                            font-family="primary"
+                            font-style="normal"
+                            font-weight="bold"
+                            letter-spacing="normal"
+                            text-decoration="none"
+                            type="paragraph1"
+                          >
+                            Ver más
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="Colstyled-k6pt3-0 hUcocq"
+                >
+                  <div
+                    datatestid=""
+                    href="/products/slug"
+                  >
+                    <a
+                      class="product"
+                      data-testid="product"
+                    >
+                      <div
+                        class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                      >
+                        <div
+                          class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                        >
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__hover-image bottom"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__image top"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                        </div>
+                        <h2
+                          class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                          color="secondary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          Camisa
+                        </h2>
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                          color="primary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          $ 126
+                        </p>
+                        <div
+                          class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                          height="1px"
+                        />
+                        <div
+                          class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                        >
+                          <p
+                            class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                            color="tertiary"
+                            font-family="primary"
+                            font-style="normal"
+                            font-weight="bold"
+                            letter-spacing="normal"
+                            text-decoration="none"
+                            type="paragraph1"
+                          >
+                            Ver más
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="Colstyled-k6pt3-0 hUcocq"
+                >
+                  <div
+                    datatestid=""
+                    href="/products/slug"
+                  >
+                    <a
+                      class="product"
+                      data-testid="product"
+                    >
+                      <div
+                        class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                      >
+                        <div
+                          class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                        >
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__hover-image bottom"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__image top"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                        </div>
+                        <h2
+                          class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                          color="secondary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          Pantalon
+                        </h2>
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                          color="primary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          $ 125
+                        </p>
+                        <div
+                          class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                          height="1px"
+                        />
+                        <div
+                          class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                        >
+                          <p
+                            class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                            color="tertiary"
+                            font-family="primary"
+                            font-style="normal"
+                            font-weight="bold"
+                            letter-spacing="normal"
+                            text-decoration="none"
+                            type="paragraph1"
+                          >
+                            Ver más
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+      data-testid="navbar"
+    >
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          datatestid=""
+          href="/"
+        >
+          <a
+            class=""
+          >
+            <div
+              class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+            >
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Isotipo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Logo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Containerstyled-qmu1bg-0 fwZIDA"
+    >
+      <div
+        class="Rowstyled-sc-76dq7o-0 kjMbCD"
+      >
+        <div
+          class="Colstyled-k6pt3-0 bRyICX"
+        >
+          <div
+            class="Filtersstyled-sc-8y7woq-0 iTDjCP"
+            data-testid="filters"
+          >
+            <h6
+              class="Typographystyled-sc-1pbtdtz-0 esWlpf typography"
+              color="quaternary"
+              font-family="primary"
+              font-style="normal"
+              font-weight="bold"
+              letter-spacing="normal"
+              text-decoration="none"
+              type="h6"
+            >
+              Filtros
+            </h6>
+            <div
+              class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+              height="1px"
+            />
+            <div
+              class="Searchstyled__StyledContainer-nj7k97-0 fmXmHm"
+            >
+              <input
+                class="Searchstyled__StyledSearch-nj7k97-1 ZPjyu"
+                id="query-text-filters"
+                placeholder="Buscar..."
+                value=""
+              />
+              <div
+                class="Searchstyled__StyledIcon-nj7k97-2 jBicbR"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Search Icon"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </div>
+            <label
+              class="Typographystyled-sc-1pbtdtz-0 bEYlVL typography"
+              color="primary"
+              font-family="primary"
+              font-style="normal"
+              font-weight="normal"
+              for="sort-filters"
+              letter-spacing="normal"
+              text-decoration="none"
+              type="paragraph4"
+            >
+              Ordenar
+            </label>
+            <div
+              class="Selectstyled__StyledContainer-sc-1d2yf14-0 jcUCjC"
+            >
+              <select
+                class="Selectstyled__StyledSelect-sc-1d2yf14-1 dCxTJM"
+                id="sort-filters"
+              >
+                <option
+                  class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                  selected=""
+                  value=""
+                >
+                  Ordenar por...
+                </option>
+                <option
+                  class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                  value="price_from_highest_to_lowest"
+                >
+                  Precio de mayor a menor
+                </option>
+                <option
+                  class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                  value="price_from_lowest_to_highest"
+                >
+                  Precio de menor a mayor
+                </option>
+              </select>
+              <div
+                class="Selectstyled__StyledIcon-sc-1d2yf14-3 TCQxc"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Arrow Icon"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="Colstyled-k6pt3-0 dzLMJp"
+        >
+          <div
+            class="Containerstyled-qmu1bg-0 fwZIDA"
+          >
+            <div
+              class="Rowstyled-sc-76dq7o-0 kjMbCD"
+            >
+              <div
+                class="Colstyled-k6pt3-0 hUcocq"
+              >
+                <div
+                  datatestid=""
+                  href="/products/slug"
+                >
+                  <a
+                    class="product"
+                    data-testid="product"
+                  >
+                    <div
+                      class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                    >
+                      <div
+                        class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                      >
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__hover-image bottom"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__image top"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                      </div>
+                      <h2
+                        class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                        color="secondary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        Chaqueta
+                      </h2>
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                        color="primary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        $ 124
+                      </p>
+                      <div
+                        class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                        height="1px"
+                      />
+                      <div
+                        class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                      >
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                          color="tertiary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="paragraph1"
+                        >
+                          Ver más
+                        </p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div
+                class="Colstyled-k6pt3-0 hUcocq"
+              >
+                <div
+                  datatestid=""
+                  href="/products/slug"
+                >
+                  <a
+                    class="product"
+                    data-testid="product"
+                  >
+                    <div
+                      class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                    >
+                      <div
+                        class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                      >
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__hover-image bottom"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__image top"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                      </div>
+                      <h2
+                        class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                        color="secondary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        Camisa
+                      </h2>
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                        color="primary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        $ 126
+                      </p>
+                      <div
+                        class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                        height="1px"
+                      />
+                      <div
+                        class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                      >
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                          color="tertiary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="paragraph1"
+                        >
+                          Ver más
+                        </p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div
+                class="Colstyled-k6pt3-0 hUcocq"
+              >
+                <div
+                  datatestid=""
+                  href="/products/slug"
+                >
+                  <a
+                    class="product"
+                    data-testid="product"
+                  >
+                    <div
+                      class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                    >
+                      <div
+                        class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                      >
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__hover-image bottom"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__image top"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                      </div>
+                      <h2
+                        class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                        color="secondary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        Pantalon
+                      </h2>
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                        color="primary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        $ 125
+                      </p>
+                      <div
+                        class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                        height="1px"
+                      />
+                      <div
+                        class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                      >
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                          color="tertiary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="paragraph1"
+                        >
+                          Ver más
+                        </p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Home should render snapshot in mobile 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+        data-testid="navbar"
+      >
+        <div
+          class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+        >
+          <div
+            datatestid=""
+            href="/"
+          >
+            <a
+              class=""
+            >
+              <div
+                class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Isotipo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Logo Platzi"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="Containerstyled-qmu1bg-0 fwZIDA"
+      >
+        <div
+          class="Rowstyled-sc-76dq7o-0 kjMbCD"
+        >
+          <div
+            class="Colstyled-k6pt3-0 bRyICX"
+          >
+            <div
+              class="Filtersstyled-sc-8y7woq-0 iTDjCP"
+              data-testid="filters"
+            >
+              <h6
+                class="Typographystyled-sc-1pbtdtz-0 esWlpf typography"
+                color="quaternary"
+                font-family="primary"
+                font-style="normal"
+                font-weight="bold"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="h6"
+              >
+                Filtros
+              </h6>
+              <div
+                class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                height="1px"
+              />
+              <div
+                class="Searchstyled__StyledContainer-nj7k97-0 fmXmHm"
+              >
+                <input
+                  class="Searchstyled__StyledSearch-nj7k97-1 ZPjyu"
+                  id="query-text-filters"
+                  placeholder="Buscar..."
+                  value=""
+                />
+                <div
+                  class="Searchstyled__StyledIcon-nj7k97-2 jBicbR"
+                >
+                  <div
+                    style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                  >
+                    <div
+                      style="box-sizing: border-box; display: block; max-width: 100%;"
+                    >
+                      <img
+                        alt=""
+                        aria-hidden="true"
+                        role="presentation"
+                        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                        style="max-width: 100%; display: block;"
+                      />
+                    </div>
+                    <img
+                      alt="Search Icon"
+                      decoding="async"
+                      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                      style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                    />
+                  </div>
+                </div>
+              </div>
+              <label
+                class="Typographystyled-sc-1pbtdtz-0 bEYlVL typography"
+                color="primary"
+                font-family="primary"
+                font-style="normal"
+                font-weight="normal"
+                for="sort-filters"
+                letter-spacing="normal"
+                text-decoration="none"
+                type="paragraph4"
+              >
+                Ordenar
+              </label>
+              <div
+                class="Selectstyled__StyledContainer-sc-1d2yf14-0 jcUCjC"
+              >
+                <select
+                  class="Selectstyled__StyledSelect-sc-1d2yf14-1 dCxTJM"
+                  id="sort-filters"
+                >
+                  <option
+                    class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                    selected=""
+                    value=""
+                  >
+                    Ordenar por...
+                  </option>
+                  <option
+                    class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                    value="price_from_highest_to_lowest"
+                  >
+                    Precio de mayor a menor
+                  </option>
+                  <option
+                    class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                    value="price_from_lowest_to_highest"
+                  >
+                    Precio de menor a mayor
+                  </option>
+                </select>
+                <div
+                  class="Selectstyled__StyledIcon-sc-1d2yf14-3 TCQxc"
+                >
+                  <div
+                    style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                  >
+                    <div
+                      style="box-sizing: border-box; display: block; max-width: 100%;"
+                    >
+                      <img
+                        alt=""
+                        aria-hidden="true"
+                        role="presentation"
+                        src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                        style="max-width: 100%; display: block;"
+                      />
+                    </div>
+                    <img
+                      alt="Arrow Icon"
+                      decoding="async"
+                      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                      style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="Colstyled-k6pt3-0 dzLMJp"
+          >
+            <div
+              class="Containerstyled-qmu1bg-0 fwZIDA"
+            >
+              <div
+                class="Rowstyled-sc-76dq7o-0 kjMbCD"
+              >
+                <div
+                  class="Colstyled-k6pt3-0 hUcocq"
+                >
+                  <div
+                    datatestid=""
+                    href="/products/slug"
+                  >
+                    <a
+                      class="product"
+                      data-testid="product"
+                    >
+                      <div
+                        class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                      >
+                        <div
+                          class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                        >
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__hover-image bottom"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__image top"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                        </div>
+                        <h2
+                          class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                          color="secondary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          Chaqueta
+                        </h2>
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                          color="primary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          $ 124
+                        </p>
+                        <div
+                          class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                          height="1px"
+                        />
+                        <div
+                          class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                        >
+                          <p
+                            class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                            color="tertiary"
+                            font-family="primary"
+                            font-style="normal"
+                            font-weight="bold"
+                            letter-spacing="normal"
+                            text-decoration="none"
+                            type="paragraph1"
+                          >
+                            Ver más
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="Colstyled-k6pt3-0 hUcocq"
+                >
+                  <div
+                    datatestid=""
+                    href="/products/slug"
+                  >
+                    <a
+                      class="product"
+                      data-testid="product"
+                    >
+                      <div
+                        class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                      >
+                        <div
+                          class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                        >
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__hover-image bottom"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__image top"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                        </div>
+                        <h2
+                          class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                          color="secondary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          Camisa
+                        </h2>
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                          color="primary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          $ 126
+                        </p>
+                        <div
+                          class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                          height="1px"
+                        />
+                        <div
+                          class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                        >
+                          <p
+                            class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                            color="tertiary"
+                            font-family="primary"
+                            font-style="normal"
+                            font-weight="bold"
+                            letter-spacing="normal"
+                            text-decoration="none"
+                            type="paragraph1"
+                          >
+                            Ver más
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="Colstyled-k6pt3-0 hUcocq"
+                >
+                  <div
+                    datatestid=""
+                    href="/products/slug"
+                  >
+                    <a
+                      class="product"
+                      data-testid="product"
+                    >
+                      <div
+                        class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                      >
+                        <div
+                          class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                        >
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__hover-image bottom"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                          <div
+                            style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                          >
+                            <img
+                              alt="Isotype"
+                              class="product__image top"
+                              decoding="async"
+                              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                              style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                            />
+                          </div>
+                        </div>
+                        <h2
+                          class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                          color="secondary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          Pantalon
+                        </h2>
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                          color="primary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="subtitle1"
+                        >
+                          $ 125
+                        </p>
+                        <div
+                          class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                          height="1px"
+                        />
+                        <div
+                          class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                        >
+                          <p
+                            class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                            color="tertiary"
+                            font-family="primary"
+                            font-style="normal"
+                            font-weight="bold"
+                            letter-spacing="normal"
+                            text-decoration="none"
+                            type="paragraph1"
+                          >
+                            Ver más
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Navbarstyled__StyledNavbar-sc-1h3v0fu-0 fCewoy"
+      data-testid="navbar"
+    >
+      <div
+        class="Containerstyled-sc-1cx36k4-0 gJYWsY"
+      >
+        <div
+          datatestid=""
+          href="/"
+        >
+          <a
+            class=""
+          >
+            <div
+              class="Navbarstyled__StyledBrand-sc-1h3v0fu-1 ezkScC"
+            >
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Isotipo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+              <div
+                style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+              >
+                <div
+                  style="box-sizing: border-box; display: block; max-width: 100%;"
+                >
+                  <img
+                    alt=""
+                    aria-hidden="true"
+                    role="presentation"
+                    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIuNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4="
+                    style="max-width: 100%; display: block;"
+                  />
+                </div>
+                <img
+                  alt="Logo Platzi"
+                  decoding="async"
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                />
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Containerstyled-qmu1bg-0 fwZIDA"
+    >
+      <div
+        class="Rowstyled-sc-76dq7o-0 kjMbCD"
+      >
+        <div
+          class="Colstyled-k6pt3-0 bRyICX"
+        >
+          <div
+            class="Filtersstyled-sc-8y7woq-0 iTDjCP"
+            data-testid="filters"
+          >
+            <h6
+              class="Typographystyled-sc-1pbtdtz-0 esWlpf typography"
+              color="quaternary"
+              font-family="primary"
+              font-style="normal"
+              font-weight="bold"
+              letter-spacing="normal"
+              text-decoration="none"
+              type="h6"
+            >
+              Filtros
+            </h6>
+            <div
+              class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+              height="1px"
+            />
+            <div
+              class="Searchstyled__StyledContainer-nj7k97-0 fmXmHm"
+            >
+              <input
+                class="Searchstyled__StyledSearch-nj7k97-1 ZPjyu"
+                id="query-text-filters"
+                placeholder="Buscar..."
+                value=""
+              />
+              <div
+                class="Searchstyled__StyledIcon-nj7k97-2 jBicbR"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Search Icon"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </div>
+            <label
+              class="Typographystyled-sc-1pbtdtz-0 bEYlVL typography"
+              color="primary"
+              font-family="primary"
+              font-style="normal"
+              font-weight="normal"
+              for="sort-filters"
+              letter-spacing="normal"
+              text-decoration="none"
+              type="paragraph4"
+            >
+              Ordenar
+            </label>
+            <div
+              class="Selectstyled__StyledContainer-sc-1d2yf14-0 jcUCjC"
+            >
+              <select
+                class="Selectstyled__StyledSelect-sc-1d2yf14-1 dCxTJM"
+                id="sort-filters"
+              >
+                <option
+                  class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                  selected=""
+                  value=""
+                >
+                  Ordenar por...
+                </option>
+                <option
+                  class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                  value="price_from_highest_to_lowest"
+                >
+                  Precio de mayor a menor
+                </option>
+                <option
+                  class="Selectstyled__StyledOption-sc-1d2yf14-2"
+                  value="price_from_lowest_to_highest"
+                >
+                  Precio de menor a mayor
+                </option>
+              </select>
+              <div
+                class="Selectstyled__StyledIcon-sc-1d2yf14-3 TCQxc"
+              >
+                <div
+                  style="display: inline-block; max-width: 100%; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="box-sizing: border-box; display: block; max-width: 100%;"
+                  >
+                    <img
+                      alt=""
+                      aria-hidden="true"
+                      role="presentation"
+                      src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+"
+                      style="max-width: 100%; display: block;"
+                    />
+                  </div>
+                  <img
+                    alt="Arrow Icon"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="Colstyled-k6pt3-0 dzLMJp"
+        >
+          <div
+            class="Containerstyled-qmu1bg-0 fwZIDA"
+          >
+            <div
+              class="Rowstyled-sc-76dq7o-0 kjMbCD"
+            >
+              <div
+                class="Colstyled-k6pt3-0 hUcocq"
+              >
+                <div
+                  datatestid=""
+                  href="/products/slug"
+                >
+                  <a
+                    class="product"
+                    data-testid="product"
+                  >
+                    <div
+                      class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                    >
+                      <div
+                        class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                      >
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__hover-image bottom"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__image top"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                      </div>
+                      <h2
+                        class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                        color="secondary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        Chaqueta
+                      </h2>
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                        color="primary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        $ 124
+                      </p>
+                      <div
+                        class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                        height="1px"
+                      />
+                      <div
+                        class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                      >
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                          color="tertiary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="paragraph1"
+                        >
+                          Ver más
+                        </p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div
+                class="Colstyled-k6pt3-0 hUcocq"
+              >
+                <div
+                  datatestid=""
+                  href="/products/slug"
+                >
+                  <a
+                    class="product"
+                    data-testid="product"
+                  >
+                    <div
+                      class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                    >
+                      <div
+                        class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                      >
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__hover-image bottom"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__image top"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                      </div>
+                      <h2
+                        class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                        color="secondary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        Camisa
+                      </h2>
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                        color="primary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        $ 126
+                      </p>
+                      <div
+                        class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                        height="1px"
+                      />
+                      <div
+                        class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                      >
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                          color="tertiary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="paragraph1"
+                        >
+                          Ver más
+                        </p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div
+                class="Colstyled-k6pt3-0 hUcocq"
+              >
+                <div
+                  datatestid=""
+                  href="/products/slug"
+                >
+                  <a
+                    class="product"
+                    data-testid="product"
+                  >
+                    <div
+                      class="Productstyled__StyledProduct-sc-1btio9o-1 gWmVAk"
+                    >
+                      <div
+                        class="Productstyled__StyledProductImageContainer-sc-1btio9o-0 ebPA-Dm"
+                      >
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__hover-image bottom"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                        <div
+                          style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                        >
+                          <img
+                            alt="Isotype"
+                            class="product__image top"
+                            decoding="async"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                            style="visibility: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                          />
+                        </div>
+                      </div>
+                      <h2
+                        class="Typographystyled-sc-1pbtdtz-0 TNqEh product__name"
+                        color="secondary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        Pantalon
+                      </h2>
+                      <p
+                        class="Typographystyled-sc-1pbtdtz-0 hXKoMh product__price"
+                        color="primary"
+                        font-family="primary"
+                        font-style="normal"
+                        font-weight="bold"
+                        letter-spacing="normal"
+                        text-decoration="none"
+                        type="subtitle1"
+                      >
+                        $ 125
+                      </p>
+                      <div
+                        class="FancyLinestyled-sc-1ffx9pt-0 gYjXDl"
+                        height="1px"
+                      />
+                      <div
+                        class="Fakebuttonstyled-gl3kvr-0 pZBOM product__cta"
+                      >
+                        <p
+                          class="Typographystyled-sc-1pbtdtz-0 kQqjtw typography"
+                          color="tertiary"
+                          font-family="primary"
+                          font-style="normal"
+                          font-weight="bold"
+                          letter-spacing="normal"
+                          text-decoration="none"
+                          type="paragraph1"
+                        >
+                          Ver más
+                        </p>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
