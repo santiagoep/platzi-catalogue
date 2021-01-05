@@ -11,7 +11,9 @@
     "publish": "vercel --prod",
     "test": "yarn build && jest --config ./jest.config.js",
     "cypress:open": "cypress open --project ./src/__e2e-test__",
-    "test:e2e": "yarn build && run-p --race start cypress:open"
+    "cypress:run": "cypress run --project ./src/__e2e-test__",
+    "test:e2e": "yarn build && run-p --race start cypress:run",
+    "test:e2e:open": "yarn build && run-p --race start cypress:open"
   },
   "repository": "git@github.com:santiagoep/platzi-test.git",
   "author": "santiagoep <santiagoemp01@gmail.com>",
