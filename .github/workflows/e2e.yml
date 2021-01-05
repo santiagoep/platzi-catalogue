@@ -17,8 +17,8 @@ jobs:
         with:
           browser: chrome
           headless: true
-          project: src/__e2e-test__
-          config-file: src/__e2e-test__/cypress.json
+          project: ../../src/__e2e-test__
+          config-file: ../../src/__e2e-test__/cypress.json
           build: npm run build
           start: npm start
           wait-on: 'http://localhost:3000'
