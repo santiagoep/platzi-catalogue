@@ -1,10 +1,6 @@
 name: End-to-end tests
 
-on:
-  pull_request:
-  push:
-    branches:
-      - master
+
 
 jobs:
   cypress-run:
@@ -21,6 +17,36 @@ jobs:
           build: yarn build
           start: yarn start
           wait-on: http://localhost:3000
+        env:
+          NODE_ENV: development
+          CMS_ENDPOINT: ${{ secrets.CMS_ENDPOINT }}
+          CMS_APIKEY: ${{ secrets.CMS_APIKEY }}
+
+
+name: End-to-end tests
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+jobs:
+  cypress-run:
+    runs-on: ubuntu-16.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      # Install NPM dependencies, cache them correctly
+      # and run all Cypress tests
+      - name: Cypress run
+        uses: cypress-io/github-action@v2
+        with:
+          browser: chrome
+          headless: true
+          project: src/__e2e-test__
+          config-file: src/__e2e-test__/cypress.json
+          build: npm run build
+          start: npm start
+          wait-on: 'http://localhost:3000'
         env:
           NODE_ENV: development
           CMS_ENDPOINT: ${{ secrets.CMS_ENDPOINT }}
