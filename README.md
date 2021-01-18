@@ -1,6 +1,7 @@
-# Platzi Test
+# Platzi Catalogue
 
-Following the instructions, i develop the proposed test. The demo can be found at: https://platzi-test.vercel.app
+Platzi Catalogue
+The demo can be found at: https://platzi-test.vercel.app
 
 Used technology:
 
@@ -19,14 +20,12 @@ I hope that in the next few days the indexing can be validated through this url 
 
 The application deployment is done through Vercel. Additionally create some Github Actions workflows to validate linter, tests and e2e tests when pushing or creating a pull-request.
 
-PD: Please bear in mind that on dates 31, 1, 2 and 3 do not advance with the test for travel reasons.
-
 ### Installation
 
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd platzi-test
+$ cd platzi-catalogue
 $ yarn
 $ yarn dev
 ```
@@ -34,7 +33,7 @@ $ yarn dev
 For production environments...
 
 ```sh
-$ cd platzi-test
+$ cd platzi-catalogue
 $ yarn
 $ yarn build
 $ yarn start
